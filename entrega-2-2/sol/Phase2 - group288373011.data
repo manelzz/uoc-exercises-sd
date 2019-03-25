@@ -1,0 +1,2534 @@
+
+##### group288373011	2015/12/15 16:33:03
+----- [group288373011@127.0.1.1:35001] Result:
+ Group id: group288373011
+Node id: group288373011@127.0.1.1:35001
+Recipes: {abewgfqi=[abewgfqi, Content--abewgfqi, group288373011], afqautsx=[afqautsx, Content--afqautsx, group288373011], ebnwejdg=[ebnwejdg, Content--ebnwejdg, group288373011], lqtuiifi=[lqtuiifi, Content--lqtuiifi, group288373011], navnggpi=[navnggpi, Content--navnggpi, group288373011], nmtgnssv=[nmtgnssv, Content--nmtgnssv, group288373011], pwoycrxd=[pwoycrxd, Content--pwoycrxd, group288373011], rjmssaed=[rjmssaed, Content--rjmssaed, group288373011], taxvoksw=[taxvoksw, Content--taxvoksw, group288373011], tipmitmh=[tipmitmh, Content--tipmitmh, group288373011], vvixeowx=[vvixeowx, Content--vvixeowx, group288373011]}
+Log: AddOperation [recipe=[abewgfqi, Content--abewgfqi, group288373011], timestamp=group288373011@127.0.1.1:35001:   2]
+AddOperation [recipe=[rjmssaed, Content--rjmssaed, group288373011], timestamp=group288373011@127.0.1.1:35000:   5]
+AddOperation [recipe=[lqtuiifi, Content--lqtuiifi, group288373011], timestamp=group288373011@127.0.1.1:35002:   1]
+
+Summary: group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35000:   5
+group288373011@127.0.1.1:35002:   1
+
+Ack: group288373011@127.0.1.1:35001:   group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35000:   5
+group288373011@127.0.1.1:35002:   1
+
+group288373011@127.0.1.1:35000:   group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35000:   5
+group288373011@127.0.1.1:35002:   1
+
+group288373011@127.0.1.1:35002:   group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35000:   5
+group288373011@127.0.1.1:35002:   1
+
+
+##### group288373011	2015/12/15 16:33:03
+----- [group288373011@127.0.1.1:35000] Result:
+ Group id: group288373011
+Node id: group288373011@127.0.1.1:35000
+Recipes: {abewgfqi=[abewgfqi, Content--abewgfqi, group288373011], afqautsx=[afqautsx, Content--afqautsx, group288373011], ebnwejdg=[ebnwejdg, Content--ebnwejdg, group288373011], lqtuiifi=[lqtuiifi, Content--lqtuiifi, group288373011], navnggpi=[navnggpi, Content--navnggpi, group288373011], nmtgnssv=[nmtgnssv, Content--nmtgnssv, group288373011], pwoycrxd=[pwoycrxd, Content--pwoycrxd, group288373011], rjmssaed=[rjmssaed, Content--rjmssaed, group288373011], taxvoksw=[taxvoksw, Content--taxvoksw, group288373011], tipmitmh=[tipmitmh, Content--tipmitmh, group288373011], vvixeowx=[vvixeowx, Content--vvixeowx, group288373011]}
+Log: AddOperation [recipe=[abewgfqi, Content--abewgfqi, group288373011], timestamp=group288373011@127.0.1.1:35001:   2]
+AddOperation [recipe=[rjmssaed, Content--rjmssaed, group288373011], timestamp=group288373011@127.0.1.1:35000:   5]
+AddOperation [recipe=[lqtuiifi, Content--lqtuiifi, group288373011], timestamp=group288373011@127.0.1.1:35002:   1]
+
+Summary: group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35000:   5
+group288373011@127.0.1.1:35002:   1
+
+Ack: group288373011@127.0.1.1:35001:   group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35000:   5
+group288373011@127.0.1.1:35002:   1
+
+group288373011@127.0.1.1:35000:   group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35000:   5
+group288373011@127.0.1.1:35002:   1
+
+group288373011@127.0.1.1:35002:   group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35000:   5
+group288373011@127.0.1.1:35002:   1
+
+================================================
+
+##### group288373011	2015/12/15 16:43:12
+----- [group288373011@127.0.1.1:35005] Result:
+ Group id: group288373011
+Node id: group288373011@127.0.1.1:35005
+Recipes: {aajcyqak=[aajcyqak, Content--aajcyqak, group288373011], apegkylv=[apegkylv, Content--apegkylv, group288373011], caywrjil=[caywrjil, Content--caywrjil, group288373011], cfpknuna=[cfpknuna, Content--cfpknuna, group288373011], ckublxhc=[ckublxhc, Content--ckublxhc, group288373011], cvqbelhh=[cvqbelhh, Content--cvqbelhh, group288373011], dcokngtt=[dcokngtt, Content--dcokngtt, group288373011], dduir^vx=[dduir^vx, Content--dduir^vx, group288373011], dxeouwjv=[dxeouwjv, Content--dxeouwjv, group288373011], eapwlmgf=[eapwlmgf, Content--eapwlmgf, group288373011], ebqmsbsj=[ebqmsbsj, Content--ebqmsbsj, group288373011], edenasfq=[edenasfq, Content--edenasfq, group288373011], eoacbpeo=[eoacbpeo, Content--eoacbpeo, group288373011], eslptfqv=[eslptfqv, Content--eslptfqv, group288373011], fcneykba=[fcneykba, Content--fcneykba, group288373011], fijfsmkt=[fijfsmkt, Content--fijfsmkt, group288373011], friwysty=[friwysty, Content--friwysty, group288373011], geyddord=[geyddord, Content--geyddord, group288373011], gguswqol=[gguswqol, Content--gguswqol, group288373011], gsdaiyui=[gsdaiyui, Content--gsdaiyui, group288373011], gvgkbgbk=[gvgkbgbk, Content--gvgkbgbk, group288373011], iakuxi^b=[iakuxi^b, Content--iakuxi^b, group288373011], ihmjrchj=[ihmjrchj, Content--ihmjrchj, group288373011], jfwqvoeq=[jfwqvoeq, Content--jfwqvoeq, group288373011], jsxdcsby=[jsxdcsby, Content--jsxdcsby, group288373011], kbhmdcno=[kbhmdcno, Content--kbhmdcno, group288373011], kbjkbhet=[kbjkbhet, Content--kbjkbhet, group288373011], kicohiaa=[kicohiaa, Content--kicohiaa, group288373011], kvlikhde=[kvlikhde, Content--kvlikhde, group288373011], ljbfwuwd=[ljbfwuwd, Content--ljbfwuwd, group288373011], lvkxkymx=[lvkxkymx, Content--lvkxkymx, group288373011], lwebkdlu=[lwebkdlu, Content--lwebkdlu, group288373011], nruvhslh=[nruvhslh, Content--nruvhslh, group288373011], oicgvijn=[oicgvijn, Content--oicgvijn, group288373011], oohavfhm=[oohavfhm, Content--oohavfhm, group288373011], ovgedpub=[ovgedpub, Content--ovgedpub, group288373011], putuvwkr=[putuvwkr, Content--putuvwkr, group288373011], rijkcyvw=[rijkcyvw, Content--rijkcyvw, group288373011], snxtuorc=[snxtuorc, Content--snxtuorc, group288373011], tatccobf=[tatccobf, Content--tatccobf, group288373011], uldnieuf=[uldnieuf, Content--uldnieuf, group288373011], uonqqlmg=[uonqqlmg, Content--uonqqlmg, group288373011], uywbsluv=[uywbsluv, Content--uywbsluv, group288373011], vqswfjjh=[vqswfjjh, Content--vqswfjjh, group288373011], xlftcxbk=[xlftcxbk, Content--xlftcxbk, group288373011], ybguvaom=[ybguvaom, Content--ybguvaom, group288373011], ydigpbxw=[ydigpbxw, Content--ydigpbxw, group288373011], ygfmwyou=[ygfmwyou, Content--ygfmwyou, group288373011], yjshsfvp=[yjshsfvp, Content--yjshsfvp, group288373011], ynmpnpnr=[ynmpnpnr, Content--ynmpnpnr, group288373011]}
+Log: AddOperation [recipe=[dxeouwjv, Content--dxeouwjv, group288373011], timestamp=group288373011@127.0.1.1:35009:   1]
+AddOperation [recipe=[ydigpbxw, Content--ydigpbxw, group288373011], timestamp=group288373011@127.0.1.1:35009:   2]
+AddOperation [recipe=[nruvhslh, Content--nruvhslh, group288373011], timestamp=group288373011@127.0.1.1:35009:   3]
+AddOperation [recipe=[ynmpnpnr, Content--ynmpnpnr, group288373011], timestamp=group288373011@127.0.1.1:35009:   4]
+AddOperation [recipe=[oohavfhm, Content--oohavfhm, group288373011], timestamp=group288373011@127.0.1.1:35008:   0]
+AddOperation [recipe=[putuvwkr, Content--putuvwkr, group288373011], timestamp=group288373011@127.0.1.1:35008:   1]
+AddOperation [recipe=[aajcyqak, Content--aajcyqak, group288373011], timestamp=group288373011@127.0.1.1:35007:   0]
+AddOperation [recipe=[uywbsluv, Content--uywbsluv, group288373011], timestamp=group288373011@127.0.1.1:35007:   1]
+AddOperation [recipe=[fcneykba, Content--fcneykba, group288373011], timestamp=group288373011@127.0.1.1:35007:   2]
+AddOperation [recipe=[uonqqlmg, Content--uonqqlmg, group288373011], timestamp=group288373011@127.0.1.1:35007:   3]
+AddOperation [recipe=[kicohiaa, Content--kicohiaa, group288373011], timestamp=group288373011@127.0.1.1:35007:   4]
+AddOperation [recipe=[apegkylv, Content--apegkylv, group288373011], timestamp=group288373011@127.0.1.1:35006:   0]
+AddOperation [recipe=[dcokngtt, Content--dcokngtt, group288373011], timestamp=group288373011@127.0.1.1:35006:   1]
+AddOperation [recipe=[friwysty, Content--friwysty, group288373011], timestamp=group288373011@127.0.1.1:35006:   2]
+AddOperation [recipe=[kbhmdcno, Content--kbhmdcno, group288373011], timestamp=group288373011@127.0.1.1:35005:   1]
+AddOperation [recipe=[cfpknuna, Content--cfpknuna, group288373011], timestamp=group288373011@127.0.1.1:35005:   2]
+AddOperation [recipe=[jfwqvoeq, Content--jfwqvoeq, group288373011], timestamp=group288373011@127.0.1.1:35005:   3]
+AddOperation [recipe=[iakuxi^b, Content--iakuxi^b, group288373011], timestamp=group288373011@127.0.1.1:35005:   4]
+AddOperation [recipe=[fijfsmkt, Content--fijfsmkt, group288373011], timestamp=group288373011@127.0.1.1:35005:   5]
+AddOperation [recipe=[lvkxkymx, Content--lvkxkymx, group288373011], timestamp=group288373011@127.0.1.1:35005:   6]
+AddOperation [recipe=[eoacbpeo, Content--eoacbpeo, group288373011], timestamp=group288373011@127.0.1.1:35004:   0]
+AddOperation [recipe=[ckublxhc, Content--ckublxhc, group288373011], timestamp=group288373011@127.0.1.1:35004:   1]
+AddOperation [recipe=[dduir^vx, Content--dduir^vx, group288373011], timestamp=group288373011@127.0.1.1:35004:   2]
+AddOperation [recipe=[gvgkbgbk, Content--gvgkbgbk, group288373011], timestamp=group288373011@127.0.1.1:35004:   3]
+AddOperation [recipe=[ljbfwuwd, Content--ljbfwuwd, group288373011], timestamp=group288373011@127.0.1.1:35003:   0]
+AddOperation [recipe=[xlftcxbk, Content--xlftcxbk, group288373011], timestamp=group288373011@127.0.1.1:35003:   1]
+AddOperation [recipe=[kbjkbhet, Content--kbjkbhet, group288373011], timestamp=group288373011@127.0.1.1:35003:   2]
+AddOperation [recipe=[rijkcyvw, Content--rijkcyvw, group288373011], timestamp=group288373011@127.0.1.1:35003:   3]
+AddOperation [recipe=[tatccobf, Content--tatccobf, group288373011], timestamp=group288373011@127.0.1.1:35014:   0]
+AddOperation [recipe=[uldnieuf, Content--uldnieuf, group288373011], timestamp=group288373011@127.0.1.1:35014:   1]
+AddOperation [recipe=[ihmjrchj, Content--ihmjrchj, group288373011], timestamp=group288373011@127.0.1.1:35002:   0]
+AddOperation [recipe=[caywrjil, Content--caywrjil, group288373011], timestamp=group288373011@127.0.1.1:35013:   0]
+AddOperation [recipe=[eapwlmgf, Content--eapwlmgf, group288373011], timestamp=group288373011@127.0.1.1:35013:   1]
+AddOperation [recipe=[ebqmsbsj, Content--ebqmsbsj, group288373011], timestamp=group288373011@127.0.1.1:35013:   2]
+AddOperation [recipe=[vqswfjjh, Content--vqswfjjh, group288373011], timestamp=group288373011@127.0.1.1:35001:   0]
+AddOperation [recipe=[lwebkdlu, Content--lwebkdlu, group288373011], timestamp=group288373011@127.0.1.1:35001:   1]
+AddOperation [recipe=[ovgedpub, Content--ovgedpub, group288373011], timestamp=group288373011@127.0.1.1:35001:   2]
+AddOperation [recipe=[oicgvijn, Content--oicgvijn, group288373011], timestamp=group288373011@127.0.1.1:35012:   0]
+AddOperation [recipe=[snxtuorc, Content--snxtuorc, group288373011], timestamp=group288373011@127.0.1.1:35000:   0]
+AddOperation [recipe=[cvqbelhh, Content--cvqbelhh, group288373011], timestamp=group288373011@127.0.1.1:35000:   1]
+AddOperation [recipe=[gsdaiyui, Content--gsdaiyui, group288373011], timestamp=group288373011@127.0.1.1:35000:   2]
+AddOperation [recipe=[gguswqol, Content--gguswqol, group288373011], timestamp=group288373011@127.0.1.1:35000:   3]
+AddOperation [recipe=[ygfmwyou, Content--ygfmwyou, group288373011], timestamp=group288373011@127.0.1.1:35011:   1]
+AddOperation [recipe=[geyddord, Content--geyddord, group288373011], timestamp=group288373011@127.0.1.1:35011:   2]
+AddOperation [recipe=[yjshsfvp, Content--yjshsfvp, group288373011], timestamp=group288373011@127.0.1.1:35011:   3]
+AddOperation [recipe=[kvlikhde, Content--kvlikhde, group288373011], timestamp=group288373011@127.0.1.1:35010:   0]
+AddOperation [recipe=[ybguvaom, Content--ybguvaom, group288373011], timestamp=group288373011@127.0.1.1:35010:   1]
+
+Summary: group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+Ack: group288373011@127.0.1.1:35009:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35008:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35007:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35006:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35005:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35004:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35003:   group288373011@127.0.1.1:35009:   2
+group288373011@127.0.1.1:35008:   0
+group288373011@127.0.1.1:35007:   3
+group288373011@127.0.1.1:35006:   -1000
+group288373011@127.0.1.1:35005:   3
+group288373011@127.0.1.1:35004:   2
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   1
+group288373011@127.0.1.1:35001:   0
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   0
+group288373011@127.0.1.1:35011:   1
+group288373011@127.0.1.1:35010:   0
+
+group288373011@127.0.1.1:35014:   group288373011@127.0.1.1:35009:   3
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   0
+group288373011@127.0.1.1:35005:   5
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   1
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   2
+group288373011@127.0.1.1:35011:   2
+group288373011@127.0.1.1:35010:   0
+
+group288373011@127.0.1.1:35002:   group288373011@127.0.1.1:35009:   1
+group288373011@127.0.1.1:35008:   -1000
+group288373011@127.0.1.1:35007:   0
+group288373011@127.0.1.1:35006:   -1000
+group288373011@127.0.1.1:35005:   1
+group288373011@127.0.1.1:35004:   0
+group288373011@127.0.1.1:35003:   0
+group288373011@127.0.1.1:35014:   0
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   0
+group288373011@127.0.1.1:35001:   0
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   0
+group288373011@127.0.1.1:35011:   1
+group288373011@127.0.1.1:35010:   0
+
+group288373011@127.0.1.1:35013:   group288373011@127.0.1.1:35009:   3
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   1
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   2
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35001:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35012:   group288373011@127.0.1.1:35009:   3
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   0
+group288373011@127.0.1.1:35005:   5
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   1
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   2
+group288373011@127.0.1.1:35011:   2
+group288373011@127.0.1.1:35010:   0
+
+group288373011@127.0.1.1:35000:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35011:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35010:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+
+##### group288373011	2015/12/15 16:43:12
+----- [group288373011@127.0.1.1:35000] Result:
+ Group id: group288373011
+Node id: group288373011@127.0.1.1:35000
+Recipes: {aajcyqak=[aajcyqak, Content--aajcyqak, group288373011], apegkylv=[apegkylv, Content--apegkylv, group288373011], caywrjil=[caywrjil, Content--caywrjil, group288373011], cfpknuna=[cfpknuna, Content--cfpknuna, group288373011], ckublxhc=[ckublxhc, Content--ckublxhc, group288373011], cvqbelhh=[cvqbelhh, Content--cvqbelhh, group288373011], dcokngtt=[dcokngtt, Content--dcokngtt, group288373011], dduir^vx=[dduir^vx, Content--dduir^vx, group288373011], dxeouwjv=[dxeouwjv, Content--dxeouwjv, group288373011], eapwlmgf=[eapwlmgf, Content--eapwlmgf, group288373011], ebqmsbsj=[ebqmsbsj, Content--ebqmsbsj, group288373011], edenasfq=[edenasfq, Content--edenasfq, group288373011], eoacbpeo=[eoacbpeo, Content--eoacbpeo, group288373011], eslptfqv=[eslptfqv, Content--eslptfqv, group288373011], fcneykba=[fcneykba, Content--fcneykba, group288373011], fijfsmkt=[fijfsmkt, Content--fijfsmkt, group288373011], friwysty=[friwysty, Content--friwysty, group288373011], geyddord=[geyddord, Content--geyddord, group288373011], gguswqol=[gguswqol, Content--gguswqol, group288373011], gsdaiyui=[gsdaiyui, Content--gsdaiyui, group288373011], gvgkbgbk=[gvgkbgbk, Content--gvgkbgbk, group288373011], iakuxi^b=[iakuxi^b, Content--iakuxi^b, group288373011], ihmjrchj=[ihmjrchj, Content--ihmjrchj, group288373011], jfwqvoeq=[jfwqvoeq, Content--jfwqvoeq, group288373011], jsxdcsby=[jsxdcsby, Content--jsxdcsby, group288373011], kbhmdcno=[kbhmdcno, Content--kbhmdcno, group288373011], kbjkbhet=[kbjkbhet, Content--kbjkbhet, group288373011], kicohiaa=[kicohiaa, Content--kicohiaa, group288373011], kvlikhde=[kvlikhde, Content--kvlikhde, group288373011], ljbfwuwd=[ljbfwuwd, Content--ljbfwuwd, group288373011], lvkxkymx=[lvkxkymx, Content--lvkxkymx, group288373011], lwebkdlu=[lwebkdlu, Content--lwebkdlu, group288373011], nruvhslh=[nruvhslh, Content--nruvhslh, group288373011], oicgvijn=[oicgvijn, Content--oicgvijn, group288373011], oohavfhm=[oohavfhm, Content--oohavfhm, group288373011], ovgedpub=[ovgedpub, Content--ovgedpub, group288373011], putuvwkr=[putuvwkr, Content--putuvwkr, group288373011], rijkcyvw=[rijkcyvw, Content--rijkcyvw, group288373011], snxtuorc=[snxtuorc, Content--snxtuorc, group288373011], tatccobf=[tatccobf, Content--tatccobf, group288373011], uldnieuf=[uldnieuf, Content--uldnieuf, group288373011], uonqqlmg=[uonqqlmg, Content--uonqqlmg, group288373011], uywbsluv=[uywbsluv, Content--uywbsluv, group288373011], vqswfjjh=[vqswfjjh, Content--vqswfjjh, group288373011], xlftcxbk=[xlftcxbk, Content--xlftcxbk, group288373011], ybguvaom=[ybguvaom, Content--ybguvaom, group288373011], ydigpbxw=[ydigpbxw, Content--ydigpbxw, group288373011], ygfmwyou=[ygfmwyou, Content--ygfmwyou, group288373011], yjshsfvp=[yjshsfvp, Content--yjshsfvp, group288373011], ynmpnpnr=[ynmpnpnr, Content--ynmpnpnr, group288373011]}
+Log: AddOperation [recipe=[dxeouwjv, Content--dxeouwjv, group288373011], timestamp=group288373011@127.0.1.1:35009:   1]
+AddOperation [recipe=[ydigpbxw, Content--ydigpbxw, group288373011], timestamp=group288373011@127.0.1.1:35009:   2]
+AddOperation [recipe=[nruvhslh, Content--nruvhslh, group288373011], timestamp=group288373011@127.0.1.1:35009:   3]
+AddOperation [recipe=[ynmpnpnr, Content--ynmpnpnr, group288373011], timestamp=group288373011@127.0.1.1:35009:   4]
+AddOperation [recipe=[oohavfhm, Content--oohavfhm, group288373011], timestamp=group288373011@127.0.1.1:35008:   0]
+AddOperation [recipe=[putuvwkr, Content--putuvwkr, group288373011], timestamp=group288373011@127.0.1.1:35008:   1]
+AddOperation [recipe=[aajcyqak, Content--aajcyqak, group288373011], timestamp=group288373011@127.0.1.1:35007:   0]
+AddOperation [recipe=[uywbsluv, Content--uywbsluv, group288373011], timestamp=group288373011@127.0.1.1:35007:   1]
+AddOperation [recipe=[fcneykba, Content--fcneykba, group288373011], timestamp=group288373011@127.0.1.1:35007:   2]
+AddOperation [recipe=[uonqqlmg, Content--uonqqlmg, group288373011], timestamp=group288373011@127.0.1.1:35007:   3]
+AddOperation [recipe=[kicohiaa, Content--kicohiaa, group288373011], timestamp=group288373011@127.0.1.1:35007:   4]
+AddOperation [recipe=[apegkylv, Content--apegkylv, group288373011], timestamp=group288373011@127.0.1.1:35006:   0]
+AddOperation [recipe=[dcokngtt, Content--dcokngtt, group288373011], timestamp=group288373011@127.0.1.1:35006:   1]
+AddOperation [recipe=[friwysty, Content--friwysty, group288373011], timestamp=group288373011@127.0.1.1:35006:   2]
+AddOperation [recipe=[kbhmdcno, Content--kbhmdcno, group288373011], timestamp=group288373011@127.0.1.1:35005:   1]
+AddOperation [recipe=[cfpknuna, Content--cfpknuna, group288373011], timestamp=group288373011@127.0.1.1:35005:   2]
+AddOperation [recipe=[jfwqvoeq, Content--jfwqvoeq, group288373011], timestamp=group288373011@127.0.1.1:35005:   3]
+AddOperation [recipe=[iakuxi^b, Content--iakuxi^b, group288373011], timestamp=group288373011@127.0.1.1:35005:   4]
+AddOperation [recipe=[fijfsmkt, Content--fijfsmkt, group288373011], timestamp=group288373011@127.0.1.1:35005:   5]
+AddOperation [recipe=[lvkxkymx, Content--lvkxkymx, group288373011], timestamp=group288373011@127.0.1.1:35005:   6]
+AddOperation [recipe=[eoacbpeo, Content--eoacbpeo, group288373011], timestamp=group288373011@127.0.1.1:35004:   0]
+AddOperation [recipe=[ckublxhc, Content--ckublxhc, group288373011], timestamp=group288373011@127.0.1.1:35004:   1]
+AddOperation [recipe=[dduir^vx, Content--dduir^vx, group288373011], timestamp=group288373011@127.0.1.1:35004:   2]
+AddOperation [recipe=[gvgkbgbk, Content--gvgkbgbk, group288373011], timestamp=group288373011@127.0.1.1:35004:   3]
+AddOperation [recipe=[ljbfwuwd, Content--ljbfwuwd, group288373011], timestamp=group288373011@127.0.1.1:35003:   0]
+AddOperation [recipe=[xlftcxbk, Content--xlftcxbk, group288373011], timestamp=group288373011@127.0.1.1:35003:   1]
+AddOperation [recipe=[kbjkbhet, Content--kbjkbhet, group288373011], timestamp=group288373011@127.0.1.1:35003:   2]
+AddOperation [recipe=[rijkcyvw, Content--rijkcyvw, group288373011], timestamp=group288373011@127.0.1.1:35003:   3]
+AddOperation [recipe=[tatccobf, Content--tatccobf, group288373011], timestamp=group288373011@127.0.1.1:35014:   0]
+AddOperation [recipe=[uldnieuf, Content--uldnieuf, group288373011], timestamp=group288373011@127.0.1.1:35014:   1]
+AddOperation [recipe=[ihmjrchj, Content--ihmjrchj, group288373011], timestamp=group288373011@127.0.1.1:35002:   0]
+AddOperation [recipe=[caywrjil, Content--caywrjil, group288373011], timestamp=group288373011@127.0.1.1:35013:   0]
+AddOperation [recipe=[eapwlmgf, Content--eapwlmgf, group288373011], timestamp=group288373011@127.0.1.1:35013:   1]
+AddOperation [recipe=[ebqmsbsj, Content--ebqmsbsj, group288373011], timestamp=group288373011@127.0.1.1:35013:   2]
+AddOperation [recipe=[vqswfjjh, Content--vqswfjjh, group288373011], timestamp=group288373011@127.0.1.1:35001:   0]
+AddOperation [recipe=[lwebkdlu, Content--lwebkdlu, group288373011], timestamp=group288373011@127.0.1.1:35001:   1]
+AddOperation [recipe=[ovgedpub, Content--ovgedpub, group288373011], timestamp=group288373011@127.0.1.1:35001:   2]
+AddOperation [recipe=[oicgvijn, Content--oicgvijn, group288373011], timestamp=group288373011@127.0.1.1:35012:   0]
+AddOperation [recipe=[snxtuorc, Content--snxtuorc, group288373011], timestamp=group288373011@127.0.1.1:35000:   0]
+AddOperation [recipe=[cvqbelhh, Content--cvqbelhh, group288373011], timestamp=group288373011@127.0.1.1:35000:   1]
+AddOperation [recipe=[gsdaiyui, Content--gsdaiyui, group288373011], timestamp=group288373011@127.0.1.1:35000:   2]
+AddOperation [recipe=[gguswqol, Content--gguswqol, group288373011], timestamp=group288373011@127.0.1.1:35000:   3]
+AddOperation [recipe=[ygfmwyou, Content--ygfmwyou, group288373011], timestamp=group288373011@127.0.1.1:35011:   1]
+AddOperation [recipe=[geyddord, Content--geyddord, group288373011], timestamp=group288373011@127.0.1.1:35011:   2]
+AddOperation [recipe=[yjshsfvp, Content--yjshsfvp, group288373011], timestamp=group288373011@127.0.1.1:35011:   3]
+AddOperation [recipe=[kvlikhde, Content--kvlikhde, group288373011], timestamp=group288373011@127.0.1.1:35010:   0]
+AddOperation [recipe=[ybguvaom, Content--ybguvaom, group288373011], timestamp=group288373011@127.0.1.1:35010:   1]
+
+Summary: group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+Ack: group288373011@127.0.1.1:35009:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35008:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35007:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35006:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35005:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35004:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35003:   group288373011@127.0.1.1:35009:   2
+group288373011@127.0.1.1:35008:   0
+group288373011@127.0.1.1:35007:   3
+group288373011@127.0.1.1:35006:   -1000
+group288373011@127.0.1.1:35005:   3
+group288373011@127.0.1.1:35004:   2
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   1
+group288373011@127.0.1.1:35001:   0
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   0
+group288373011@127.0.1.1:35011:   1
+group288373011@127.0.1.1:35010:   0
+
+group288373011@127.0.1.1:35014:   group288373011@127.0.1.1:35009:   3
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   0
+group288373011@127.0.1.1:35005:   5
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   1
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   2
+group288373011@127.0.1.1:35011:   2
+group288373011@127.0.1.1:35010:   0
+
+group288373011@127.0.1.1:35002:   group288373011@127.0.1.1:35009:   1
+group288373011@127.0.1.1:35008:   -1000
+group288373011@127.0.1.1:35007:   0
+group288373011@127.0.1.1:35006:   -1000
+group288373011@127.0.1.1:35005:   1
+group288373011@127.0.1.1:35004:   0
+group288373011@127.0.1.1:35003:   0
+group288373011@127.0.1.1:35014:   0
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   0
+group288373011@127.0.1.1:35001:   0
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   0
+group288373011@127.0.1.1:35011:   1
+group288373011@127.0.1.1:35010:   0
+
+group288373011@127.0.1.1:35013:   group288373011@127.0.1.1:35009:   3
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   1
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   2
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35001:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35012:   group288373011@127.0.1.1:35009:   3
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   0
+group288373011@127.0.1.1:35005:   5
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   1
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   2
+group288373011@127.0.1.1:35011:   2
+group288373011@127.0.1.1:35010:   0
+
+group288373011@127.0.1.1:35000:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35011:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35010:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+
+##### group288373011	2015/12/15 16:43:12
+----- [group288373011@127.0.1.1:35009] Result:
+ Group id: group288373011
+Node id: group288373011@127.0.1.1:35009
+Recipes: {aajcyqak=[aajcyqak, Content--aajcyqak, group288373011], apegkylv=[apegkylv, Content--apegkylv, group288373011], caywrjil=[caywrjil, Content--caywrjil, group288373011], cfpknuna=[cfpknuna, Content--cfpknuna, group288373011], ckublxhc=[ckublxhc, Content--ckublxhc, group288373011], cvqbelhh=[cvqbelhh, Content--cvqbelhh, group288373011], dcokngtt=[dcokngtt, Content--dcokngtt, group288373011], dduir^vx=[dduir^vx, Content--dduir^vx, group288373011], dxeouwjv=[dxeouwjv, Content--dxeouwjv, group288373011], eapwlmgf=[eapwlmgf, Content--eapwlmgf, group288373011], ebqmsbsj=[ebqmsbsj, Content--ebqmsbsj, group288373011], edenasfq=[edenasfq, Content--edenasfq, group288373011], eoacbpeo=[eoacbpeo, Content--eoacbpeo, group288373011], eslptfqv=[eslptfqv, Content--eslptfqv, group288373011], fcneykba=[fcneykba, Content--fcneykba, group288373011], fijfsmkt=[fijfsmkt, Content--fijfsmkt, group288373011], friwysty=[friwysty, Content--friwysty, group288373011], geyddord=[geyddord, Content--geyddord, group288373011], gguswqol=[gguswqol, Content--gguswqol, group288373011], gsdaiyui=[gsdaiyui, Content--gsdaiyui, group288373011], gvgkbgbk=[gvgkbgbk, Content--gvgkbgbk, group288373011], iakuxi^b=[iakuxi^b, Content--iakuxi^b, group288373011], ihmjrchj=[ihmjrchj, Content--ihmjrchj, group288373011], jfwqvoeq=[jfwqvoeq, Content--jfwqvoeq, group288373011], jsxdcsby=[jsxdcsby, Content--jsxdcsby, group288373011], kbhmdcno=[kbhmdcno, Content--kbhmdcno, group288373011], kbjkbhet=[kbjkbhet, Content--kbjkbhet, group288373011], kicohiaa=[kicohiaa, Content--kicohiaa, group288373011], kvlikhde=[kvlikhde, Content--kvlikhde, group288373011], ljbfwuwd=[ljbfwuwd, Content--ljbfwuwd, group288373011], lvkxkymx=[lvkxkymx, Content--lvkxkymx, group288373011], lwebkdlu=[lwebkdlu, Content--lwebkdlu, group288373011], nruvhslh=[nruvhslh, Content--nruvhslh, group288373011], oicgvijn=[oicgvijn, Content--oicgvijn, group288373011], oohavfhm=[oohavfhm, Content--oohavfhm, group288373011], ovgedpub=[ovgedpub, Content--ovgedpub, group288373011], putuvwkr=[putuvwkr, Content--putuvwkr, group288373011], rijkcyvw=[rijkcyvw, Content--rijkcyvw, group288373011], snxtuorc=[snxtuorc, Content--snxtuorc, group288373011], tatccobf=[tatccobf, Content--tatccobf, group288373011], uldnieuf=[uldnieuf, Content--uldnieuf, group288373011], uonqqlmg=[uonqqlmg, Content--uonqqlmg, group288373011], uywbsluv=[uywbsluv, Content--uywbsluv, group288373011], vqswfjjh=[vqswfjjh, Content--vqswfjjh, group288373011], xlftcxbk=[xlftcxbk, Content--xlftcxbk, group288373011], ybguvaom=[ybguvaom, Content--ybguvaom, group288373011], ydigpbxw=[ydigpbxw, Content--ydigpbxw, group288373011], ygfmwyou=[ygfmwyou, Content--ygfmwyou, group288373011], yjshsfvp=[yjshsfvp, Content--yjshsfvp, group288373011], ynmpnpnr=[ynmpnpnr, Content--ynmpnpnr, group288373011]}
+Log: AddOperation [recipe=[dxeouwjv, Content--dxeouwjv, group288373011], timestamp=group288373011@127.0.1.1:35009:   1]
+AddOperation [recipe=[ydigpbxw, Content--ydigpbxw, group288373011], timestamp=group288373011@127.0.1.1:35009:   2]
+AddOperation [recipe=[nruvhslh, Content--nruvhslh, group288373011], timestamp=group288373011@127.0.1.1:35009:   3]
+AddOperation [recipe=[ynmpnpnr, Content--ynmpnpnr, group288373011], timestamp=group288373011@127.0.1.1:35009:   4]
+AddOperation [recipe=[oohavfhm, Content--oohavfhm, group288373011], timestamp=group288373011@127.0.1.1:35008:   0]
+AddOperation [recipe=[putuvwkr, Content--putuvwkr, group288373011], timestamp=group288373011@127.0.1.1:35008:   1]
+AddOperation [recipe=[aajcyqak, Content--aajcyqak, group288373011], timestamp=group288373011@127.0.1.1:35007:   0]
+AddOperation [recipe=[uywbsluv, Content--uywbsluv, group288373011], timestamp=group288373011@127.0.1.1:35007:   1]
+AddOperation [recipe=[fcneykba, Content--fcneykba, group288373011], timestamp=group288373011@127.0.1.1:35007:   2]
+AddOperation [recipe=[uonqqlmg, Content--uonqqlmg, group288373011], timestamp=group288373011@127.0.1.1:35007:   3]
+AddOperation [recipe=[kicohiaa, Content--kicohiaa, group288373011], timestamp=group288373011@127.0.1.1:35007:   4]
+AddOperation [recipe=[apegkylv, Content--apegkylv, group288373011], timestamp=group288373011@127.0.1.1:35006:   0]
+AddOperation [recipe=[dcokngtt, Content--dcokngtt, group288373011], timestamp=group288373011@127.0.1.1:35006:   1]
+AddOperation [recipe=[friwysty, Content--friwysty, group288373011], timestamp=group288373011@127.0.1.1:35006:   2]
+AddOperation [recipe=[kbhmdcno, Content--kbhmdcno, group288373011], timestamp=group288373011@127.0.1.1:35005:   1]
+AddOperation [recipe=[cfpknuna, Content--cfpknuna, group288373011], timestamp=group288373011@127.0.1.1:35005:   2]
+AddOperation [recipe=[jfwqvoeq, Content--jfwqvoeq, group288373011], timestamp=group288373011@127.0.1.1:35005:   3]
+AddOperation [recipe=[iakuxi^b, Content--iakuxi^b, group288373011], timestamp=group288373011@127.0.1.1:35005:   4]
+AddOperation [recipe=[fijfsmkt, Content--fijfsmkt, group288373011], timestamp=group288373011@127.0.1.1:35005:   5]
+AddOperation [recipe=[lvkxkymx, Content--lvkxkymx, group288373011], timestamp=group288373011@127.0.1.1:35005:   6]
+AddOperation [recipe=[eoacbpeo, Content--eoacbpeo, group288373011], timestamp=group288373011@127.0.1.1:35004:   0]
+AddOperation [recipe=[ckublxhc, Content--ckublxhc, group288373011], timestamp=group288373011@127.0.1.1:35004:   1]
+AddOperation [recipe=[dduir^vx, Content--dduir^vx, group288373011], timestamp=group288373011@127.0.1.1:35004:   2]
+AddOperation [recipe=[gvgkbgbk, Content--gvgkbgbk, group288373011], timestamp=group288373011@127.0.1.1:35004:   3]
+AddOperation [recipe=[ljbfwuwd, Content--ljbfwuwd, group288373011], timestamp=group288373011@127.0.1.1:35003:   0]
+AddOperation [recipe=[xlftcxbk, Content--xlftcxbk, group288373011], timestamp=group288373011@127.0.1.1:35003:   1]
+AddOperation [recipe=[kbjkbhet, Content--kbjkbhet, group288373011], timestamp=group288373011@127.0.1.1:35003:   2]
+AddOperation [recipe=[rijkcyvw, Content--rijkcyvw, group288373011], timestamp=group288373011@127.0.1.1:35003:   3]
+AddOperation [recipe=[tatccobf, Content--tatccobf, group288373011], timestamp=group288373011@127.0.1.1:35014:   0]
+AddOperation [recipe=[uldnieuf, Content--uldnieuf, group288373011], timestamp=group288373011@127.0.1.1:35014:   1]
+AddOperation [recipe=[ihmjrchj, Content--ihmjrchj, group288373011], timestamp=group288373011@127.0.1.1:35002:   0]
+AddOperation [recipe=[caywrjil, Content--caywrjil, group288373011], timestamp=group288373011@127.0.1.1:35013:   0]
+AddOperation [recipe=[eapwlmgf, Content--eapwlmgf, group288373011], timestamp=group288373011@127.0.1.1:35013:   1]
+AddOperation [recipe=[ebqmsbsj, Content--ebqmsbsj, group288373011], timestamp=group288373011@127.0.1.1:35013:   2]
+AddOperation [recipe=[vqswfjjh, Content--vqswfjjh, group288373011], timestamp=group288373011@127.0.1.1:35001:   0]
+AddOperation [recipe=[lwebkdlu, Content--lwebkdlu, group288373011], timestamp=group288373011@127.0.1.1:35001:   1]
+AddOperation [recipe=[ovgedpub, Content--ovgedpub, group288373011], timestamp=group288373011@127.0.1.1:35001:   2]
+AddOperation [recipe=[oicgvijn, Content--oicgvijn, group288373011], timestamp=group288373011@127.0.1.1:35012:   0]
+AddOperation [recipe=[snxtuorc, Content--snxtuorc, group288373011], timestamp=group288373011@127.0.1.1:35000:   0]
+AddOperation [recipe=[cvqbelhh, Content--cvqbelhh, group288373011], timestamp=group288373011@127.0.1.1:35000:   1]
+AddOperation [recipe=[gsdaiyui, Content--gsdaiyui, group288373011], timestamp=group288373011@127.0.1.1:35000:   2]
+AddOperation [recipe=[gguswqol, Content--gguswqol, group288373011], timestamp=group288373011@127.0.1.1:35000:   3]
+AddOperation [recipe=[ygfmwyou, Content--ygfmwyou, group288373011], timestamp=group288373011@127.0.1.1:35011:   1]
+AddOperation [recipe=[geyddord, Content--geyddord, group288373011], timestamp=group288373011@127.0.1.1:35011:   2]
+AddOperation [recipe=[yjshsfvp, Content--yjshsfvp, group288373011], timestamp=group288373011@127.0.1.1:35011:   3]
+AddOperation [recipe=[kvlikhde, Content--kvlikhde, group288373011], timestamp=group288373011@127.0.1.1:35010:   0]
+AddOperation [recipe=[ybguvaom, Content--ybguvaom, group288373011], timestamp=group288373011@127.0.1.1:35010:   1]
+
+Summary: group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+Ack: group288373011@127.0.1.1:35009:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35008:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35007:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35006:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35005:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35004:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35003:   group288373011@127.0.1.1:35009:   2
+group288373011@127.0.1.1:35008:   0
+group288373011@127.0.1.1:35007:   3
+group288373011@127.0.1.1:35006:   -1000
+group288373011@127.0.1.1:35005:   3
+group288373011@127.0.1.1:35004:   2
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   1
+group288373011@127.0.1.1:35001:   0
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   0
+group288373011@127.0.1.1:35011:   1
+group288373011@127.0.1.1:35010:   0
+
+group288373011@127.0.1.1:35014:   group288373011@127.0.1.1:35009:   3
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   0
+group288373011@127.0.1.1:35005:   5
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   1
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   2
+group288373011@127.0.1.1:35011:   2
+group288373011@127.0.1.1:35010:   0
+
+group288373011@127.0.1.1:35002:   group288373011@127.0.1.1:35009:   1
+group288373011@127.0.1.1:35008:   -1000
+group288373011@127.0.1.1:35007:   0
+group288373011@127.0.1.1:35006:   -1000
+group288373011@127.0.1.1:35005:   1
+group288373011@127.0.1.1:35004:   0
+group288373011@127.0.1.1:35003:   0
+group288373011@127.0.1.1:35014:   0
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   0
+group288373011@127.0.1.1:35001:   0
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   0
+group288373011@127.0.1.1:35011:   1
+group288373011@127.0.1.1:35010:   0
+
+group288373011@127.0.1.1:35013:   group288373011@127.0.1.1:35009:   3
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   1
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   2
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35001:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35012:   group288373011@127.0.1.1:35009:   3
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   0
+group288373011@127.0.1.1:35005:   5
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   1
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   2
+group288373011@127.0.1.1:35011:   2
+group288373011@127.0.1.1:35010:   0
+
+group288373011@127.0.1.1:35000:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35011:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35010:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+
+##### group288373011	2015/12/15 16:43:12
+----- [group288373011@127.0.1.1:35001] Result:
+ Group id: group288373011
+Node id: group288373011@127.0.1.1:35001
+Recipes: {aajcyqak=[aajcyqak, Content--aajcyqak, group288373011], apegkylv=[apegkylv, Content--apegkylv, group288373011], caywrjil=[caywrjil, Content--caywrjil, group288373011], cfpknuna=[cfpknuna, Content--cfpknuna, group288373011], ckublxhc=[ckublxhc, Content--ckublxhc, group288373011], cvqbelhh=[cvqbelhh, Content--cvqbelhh, group288373011], dcokngtt=[dcokngtt, Content--dcokngtt, group288373011], dduir^vx=[dduir^vx, Content--dduir^vx, group288373011], dxeouwjv=[dxeouwjv, Content--dxeouwjv, group288373011], eapwlmgf=[eapwlmgf, Content--eapwlmgf, group288373011], ebqmsbsj=[ebqmsbsj, Content--ebqmsbsj, group288373011], edenasfq=[edenasfq, Content--edenasfq, group288373011], eoacbpeo=[eoacbpeo, Content--eoacbpeo, group288373011], eslptfqv=[eslptfqv, Content--eslptfqv, group288373011], fcneykba=[fcneykba, Content--fcneykba, group288373011], fijfsmkt=[fijfsmkt, Content--fijfsmkt, group288373011], friwysty=[friwysty, Content--friwysty, group288373011], geyddord=[geyddord, Content--geyddord, group288373011], gguswqol=[gguswqol, Content--gguswqol, group288373011], gsdaiyui=[gsdaiyui, Content--gsdaiyui, group288373011], gvgkbgbk=[gvgkbgbk, Content--gvgkbgbk, group288373011], iakuxi^b=[iakuxi^b, Content--iakuxi^b, group288373011], ihmjrchj=[ihmjrchj, Content--ihmjrchj, group288373011], jfwqvoeq=[jfwqvoeq, Content--jfwqvoeq, group288373011], jsxdcsby=[jsxdcsby, Content--jsxdcsby, group288373011], kbhmdcno=[kbhmdcno, Content--kbhmdcno, group288373011], kbjkbhet=[kbjkbhet, Content--kbjkbhet, group288373011], kicohiaa=[kicohiaa, Content--kicohiaa, group288373011], kvlikhde=[kvlikhde, Content--kvlikhde, group288373011], ljbfwuwd=[ljbfwuwd, Content--ljbfwuwd, group288373011], lvkxkymx=[lvkxkymx, Content--lvkxkymx, group288373011], lwebkdlu=[lwebkdlu, Content--lwebkdlu, group288373011], nruvhslh=[nruvhslh, Content--nruvhslh, group288373011], oicgvijn=[oicgvijn, Content--oicgvijn, group288373011], oohavfhm=[oohavfhm, Content--oohavfhm, group288373011], ovgedpub=[ovgedpub, Content--ovgedpub, group288373011], putuvwkr=[putuvwkr, Content--putuvwkr, group288373011], rijkcyvw=[rijkcyvw, Content--rijkcyvw, group288373011], snxtuorc=[snxtuorc, Content--snxtuorc, group288373011], tatccobf=[tatccobf, Content--tatccobf, group288373011], uldnieuf=[uldnieuf, Content--uldnieuf, group288373011], uonqqlmg=[uonqqlmg, Content--uonqqlmg, group288373011], uywbsluv=[uywbsluv, Content--uywbsluv, group288373011], vqswfjjh=[vqswfjjh, Content--vqswfjjh, group288373011], xlftcxbk=[xlftcxbk, Content--xlftcxbk, group288373011], ybguvaom=[ybguvaom, Content--ybguvaom, group288373011], ydigpbxw=[ydigpbxw, Content--ydigpbxw, group288373011], ygfmwyou=[ygfmwyou, Content--ygfmwyou, group288373011], yjshsfvp=[yjshsfvp, Content--yjshsfvp, group288373011], ynmpnpnr=[ynmpnpnr, Content--ynmpnpnr, group288373011]}
+Log: AddOperation [recipe=[dxeouwjv, Content--dxeouwjv, group288373011], timestamp=group288373011@127.0.1.1:35009:   1]
+AddOperation [recipe=[ydigpbxw, Content--ydigpbxw, group288373011], timestamp=group288373011@127.0.1.1:35009:   2]
+AddOperation [recipe=[nruvhslh, Content--nruvhslh, group288373011], timestamp=group288373011@127.0.1.1:35009:   3]
+AddOperation [recipe=[ynmpnpnr, Content--ynmpnpnr, group288373011], timestamp=group288373011@127.0.1.1:35009:   4]
+AddOperation [recipe=[oohavfhm, Content--oohavfhm, group288373011], timestamp=group288373011@127.0.1.1:35008:   0]
+AddOperation [recipe=[putuvwkr, Content--putuvwkr, group288373011], timestamp=group288373011@127.0.1.1:35008:   1]
+AddOperation [recipe=[aajcyqak, Content--aajcyqak, group288373011], timestamp=group288373011@127.0.1.1:35007:   0]
+AddOperation [recipe=[uywbsluv, Content--uywbsluv, group288373011], timestamp=group288373011@127.0.1.1:35007:   1]
+AddOperation [recipe=[fcneykba, Content--fcneykba, group288373011], timestamp=group288373011@127.0.1.1:35007:   2]
+AddOperation [recipe=[uonqqlmg, Content--uonqqlmg, group288373011], timestamp=group288373011@127.0.1.1:35007:   3]
+AddOperation [recipe=[kicohiaa, Content--kicohiaa, group288373011], timestamp=group288373011@127.0.1.1:35007:   4]
+AddOperation [recipe=[apegkylv, Content--apegkylv, group288373011], timestamp=group288373011@127.0.1.1:35006:   0]
+AddOperation [recipe=[dcokngtt, Content--dcokngtt, group288373011], timestamp=group288373011@127.0.1.1:35006:   1]
+AddOperation [recipe=[friwysty, Content--friwysty, group288373011], timestamp=group288373011@127.0.1.1:35006:   2]
+AddOperation [recipe=[kbhmdcno, Content--kbhmdcno, group288373011], timestamp=group288373011@127.0.1.1:35005:   1]
+AddOperation [recipe=[cfpknuna, Content--cfpknuna, group288373011], timestamp=group288373011@127.0.1.1:35005:   2]
+AddOperation [recipe=[jfwqvoeq, Content--jfwqvoeq, group288373011], timestamp=group288373011@127.0.1.1:35005:   3]
+AddOperation [recipe=[iakuxi^b, Content--iakuxi^b, group288373011], timestamp=group288373011@127.0.1.1:35005:   4]
+AddOperation [recipe=[fijfsmkt, Content--fijfsmkt, group288373011], timestamp=group288373011@127.0.1.1:35005:   5]
+AddOperation [recipe=[lvkxkymx, Content--lvkxkymx, group288373011], timestamp=group288373011@127.0.1.1:35005:   6]
+AddOperation [recipe=[eoacbpeo, Content--eoacbpeo, group288373011], timestamp=group288373011@127.0.1.1:35004:   0]
+AddOperation [recipe=[ckublxhc, Content--ckublxhc, group288373011], timestamp=group288373011@127.0.1.1:35004:   1]
+AddOperation [recipe=[dduir^vx, Content--dduir^vx, group288373011], timestamp=group288373011@127.0.1.1:35004:   2]
+AddOperation [recipe=[gvgkbgbk, Content--gvgkbgbk, group288373011], timestamp=group288373011@127.0.1.1:35004:   3]
+AddOperation [recipe=[ljbfwuwd, Content--ljbfwuwd, group288373011], timestamp=group288373011@127.0.1.1:35003:   0]
+AddOperation [recipe=[xlftcxbk, Content--xlftcxbk, group288373011], timestamp=group288373011@127.0.1.1:35003:   1]
+AddOperation [recipe=[kbjkbhet, Content--kbjkbhet, group288373011], timestamp=group288373011@127.0.1.1:35003:   2]
+AddOperation [recipe=[rijkcyvw, Content--rijkcyvw, group288373011], timestamp=group288373011@127.0.1.1:35003:   3]
+AddOperation [recipe=[tatccobf, Content--tatccobf, group288373011], timestamp=group288373011@127.0.1.1:35014:   0]
+AddOperation [recipe=[uldnieuf, Content--uldnieuf, group288373011], timestamp=group288373011@127.0.1.1:35014:   1]
+AddOperation [recipe=[ihmjrchj, Content--ihmjrchj, group288373011], timestamp=group288373011@127.0.1.1:35002:   0]
+AddOperation [recipe=[caywrjil, Content--caywrjil, group288373011], timestamp=group288373011@127.0.1.1:35013:   0]
+AddOperation [recipe=[eapwlmgf, Content--eapwlmgf, group288373011], timestamp=group288373011@127.0.1.1:35013:   1]
+AddOperation [recipe=[ebqmsbsj, Content--ebqmsbsj, group288373011], timestamp=group288373011@127.0.1.1:35013:   2]
+AddOperation [recipe=[vqswfjjh, Content--vqswfjjh, group288373011], timestamp=group288373011@127.0.1.1:35001:   0]
+AddOperation [recipe=[lwebkdlu, Content--lwebkdlu, group288373011], timestamp=group288373011@127.0.1.1:35001:   1]
+AddOperation [recipe=[ovgedpub, Content--ovgedpub, group288373011], timestamp=group288373011@127.0.1.1:35001:   2]
+AddOperation [recipe=[oicgvijn, Content--oicgvijn, group288373011], timestamp=group288373011@127.0.1.1:35012:   0]
+AddOperation [recipe=[snxtuorc, Content--snxtuorc, group288373011], timestamp=group288373011@127.0.1.1:35000:   0]
+AddOperation [recipe=[cvqbelhh, Content--cvqbelhh, group288373011], timestamp=group288373011@127.0.1.1:35000:   1]
+AddOperation [recipe=[gsdaiyui, Content--gsdaiyui, group288373011], timestamp=group288373011@127.0.1.1:35000:   2]
+AddOperation [recipe=[gguswqol, Content--gguswqol, group288373011], timestamp=group288373011@127.0.1.1:35000:   3]
+AddOperation [recipe=[ygfmwyou, Content--ygfmwyou, group288373011], timestamp=group288373011@127.0.1.1:35011:   1]
+AddOperation [recipe=[geyddord, Content--geyddord, group288373011], timestamp=group288373011@127.0.1.1:35011:   2]
+AddOperation [recipe=[yjshsfvp, Content--yjshsfvp, group288373011], timestamp=group288373011@127.0.1.1:35011:   3]
+AddOperation [recipe=[kvlikhde, Content--kvlikhde, group288373011], timestamp=group288373011@127.0.1.1:35010:   0]
+AddOperation [recipe=[ybguvaom, Content--ybguvaom, group288373011], timestamp=group288373011@127.0.1.1:35010:   1]
+
+Summary: group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+Ack: group288373011@127.0.1.1:35009:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35008:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35007:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35006:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35005:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35004:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35003:   group288373011@127.0.1.1:35009:   2
+group288373011@127.0.1.1:35008:   0
+group288373011@127.0.1.1:35007:   3
+group288373011@127.0.1.1:35006:   -1000
+group288373011@127.0.1.1:35005:   3
+group288373011@127.0.1.1:35004:   2
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   1
+group288373011@127.0.1.1:35001:   0
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   0
+group288373011@127.0.1.1:35011:   1
+group288373011@127.0.1.1:35010:   0
+
+group288373011@127.0.1.1:35014:   group288373011@127.0.1.1:35009:   3
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   0
+group288373011@127.0.1.1:35005:   5
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   1
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   2
+group288373011@127.0.1.1:35011:   2
+group288373011@127.0.1.1:35010:   0
+
+group288373011@127.0.1.1:35002:   group288373011@127.0.1.1:35009:   1
+group288373011@127.0.1.1:35008:   -1000
+group288373011@127.0.1.1:35007:   0
+group288373011@127.0.1.1:35006:   -1000
+group288373011@127.0.1.1:35005:   1
+group288373011@127.0.1.1:35004:   0
+group288373011@127.0.1.1:35003:   0
+group288373011@127.0.1.1:35014:   0
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   0
+group288373011@127.0.1.1:35001:   0
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   0
+group288373011@127.0.1.1:35011:   1
+group288373011@127.0.1.1:35010:   0
+
+group288373011@127.0.1.1:35013:   group288373011@127.0.1.1:35009:   3
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   1
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   2
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35001:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35012:   group288373011@127.0.1.1:35009:   3
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   0
+group288373011@127.0.1.1:35005:   5
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   1
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   2
+group288373011@127.0.1.1:35011:   2
+group288373011@127.0.1.1:35010:   0
+
+group288373011@127.0.1.1:35000:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35011:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35010:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+
+##### group288373011	2015/12/15 16:43:12
+----- [group288373011@127.0.1.1:35010] Result:
+ Group id: group288373011
+Node id: group288373011@127.0.1.1:35010
+Recipes: {aajcyqak=[aajcyqak, Content--aajcyqak, group288373011], apegkylv=[apegkylv, Content--apegkylv, group288373011], caywrjil=[caywrjil, Content--caywrjil, group288373011], cfpknuna=[cfpknuna, Content--cfpknuna, group288373011], ckublxhc=[ckublxhc, Content--ckublxhc, group288373011], cvqbelhh=[cvqbelhh, Content--cvqbelhh, group288373011], dcokngtt=[dcokngtt, Content--dcokngtt, group288373011], dduir^vx=[dduir^vx, Content--dduir^vx, group288373011], dxeouwjv=[dxeouwjv, Content--dxeouwjv, group288373011], eapwlmgf=[eapwlmgf, Content--eapwlmgf, group288373011], ebqmsbsj=[ebqmsbsj, Content--ebqmsbsj, group288373011], edenasfq=[edenasfq, Content--edenasfq, group288373011], eoacbpeo=[eoacbpeo, Content--eoacbpeo, group288373011], eslptfqv=[eslptfqv, Content--eslptfqv, group288373011], fcneykba=[fcneykba, Content--fcneykba, group288373011], fijfsmkt=[fijfsmkt, Content--fijfsmkt, group288373011], friwysty=[friwysty, Content--friwysty, group288373011], geyddord=[geyddord, Content--geyddord, group288373011], gguswqol=[gguswqol, Content--gguswqol, group288373011], gsdaiyui=[gsdaiyui, Content--gsdaiyui, group288373011], gvgkbgbk=[gvgkbgbk, Content--gvgkbgbk, group288373011], iakuxi^b=[iakuxi^b, Content--iakuxi^b, group288373011], ihmjrchj=[ihmjrchj, Content--ihmjrchj, group288373011], jfwqvoeq=[jfwqvoeq, Content--jfwqvoeq, group288373011], jsxdcsby=[jsxdcsby, Content--jsxdcsby, group288373011], kbhmdcno=[kbhmdcno, Content--kbhmdcno, group288373011], kbjkbhet=[kbjkbhet, Content--kbjkbhet, group288373011], kicohiaa=[kicohiaa, Content--kicohiaa, group288373011], kvlikhde=[kvlikhde, Content--kvlikhde, group288373011], ljbfwuwd=[ljbfwuwd, Content--ljbfwuwd, group288373011], lvkxkymx=[lvkxkymx, Content--lvkxkymx, group288373011], lwebkdlu=[lwebkdlu, Content--lwebkdlu, group288373011], nruvhslh=[nruvhslh, Content--nruvhslh, group288373011], oicgvijn=[oicgvijn, Content--oicgvijn, group288373011], oohavfhm=[oohavfhm, Content--oohavfhm, group288373011], ovgedpub=[ovgedpub, Content--ovgedpub, group288373011], putuvwkr=[putuvwkr, Content--putuvwkr, group288373011], rijkcyvw=[rijkcyvw, Content--rijkcyvw, group288373011], snxtuorc=[snxtuorc, Content--snxtuorc, group288373011], tatccobf=[tatccobf, Content--tatccobf, group288373011], uldnieuf=[uldnieuf, Content--uldnieuf, group288373011], uonqqlmg=[uonqqlmg, Content--uonqqlmg, group288373011], uywbsluv=[uywbsluv, Content--uywbsluv, group288373011], vqswfjjh=[vqswfjjh, Content--vqswfjjh, group288373011], xlftcxbk=[xlftcxbk, Content--xlftcxbk, group288373011], ybguvaom=[ybguvaom, Content--ybguvaom, group288373011], ydigpbxw=[ydigpbxw, Content--ydigpbxw, group288373011], ygfmwyou=[ygfmwyou, Content--ygfmwyou, group288373011], yjshsfvp=[yjshsfvp, Content--yjshsfvp, group288373011], ynmpnpnr=[ynmpnpnr, Content--ynmpnpnr, group288373011]}
+Log: AddOperation [recipe=[dxeouwjv, Content--dxeouwjv, group288373011], timestamp=group288373011@127.0.1.1:35009:   1]
+AddOperation [recipe=[ydigpbxw, Content--ydigpbxw, group288373011], timestamp=group288373011@127.0.1.1:35009:   2]
+AddOperation [recipe=[nruvhslh, Content--nruvhslh, group288373011], timestamp=group288373011@127.0.1.1:35009:   3]
+AddOperation [recipe=[ynmpnpnr, Content--ynmpnpnr, group288373011], timestamp=group288373011@127.0.1.1:35009:   4]
+AddOperation [recipe=[oohavfhm, Content--oohavfhm, group288373011], timestamp=group288373011@127.0.1.1:35008:   0]
+AddOperation [recipe=[putuvwkr, Content--putuvwkr, group288373011], timestamp=group288373011@127.0.1.1:35008:   1]
+AddOperation [recipe=[aajcyqak, Content--aajcyqak, group288373011], timestamp=group288373011@127.0.1.1:35007:   0]
+AddOperation [recipe=[uywbsluv, Content--uywbsluv, group288373011], timestamp=group288373011@127.0.1.1:35007:   1]
+AddOperation [recipe=[fcneykba, Content--fcneykba, group288373011], timestamp=group288373011@127.0.1.1:35007:   2]
+AddOperation [recipe=[uonqqlmg, Content--uonqqlmg, group288373011], timestamp=group288373011@127.0.1.1:35007:   3]
+AddOperation [recipe=[kicohiaa, Content--kicohiaa, group288373011], timestamp=group288373011@127.0.1.1:35007:   4]
+AddOperation [recipe=[apegkylv, Content--apegkylv, group288373011], timestamp=group288373011@127.0.1.1:35006:   0]
+AddOperation [recipe=[dcokngtt, Content--dcokngtt, group288373011], timestamp=group288373011@127.0.1.1:35006:   1]
+AddOperation [recipe=[friwysty, Content--friwysty, group288373011], timestamp=group288373011@127.0.1.1:35006:   2]
+AddOperation [recipe=[kbhmdcno, Content--kbhmdcno, group288373011], timestamp=group288373011@127.0.1.1:35005:   1]
+AddOperation [recipe=[cfpknuna, Content--cfpknuna, group288373011], timestamp=group288373011@127.0.1.1:35005:   2]
+AddOperation [recipe=[jfwqvoeq, Content--jfwqvoeq, group288373011], timestamp=group288373011@127.0.1.1:35005:   3]
+AddOperation [recipe=[iakuxi^b, Content--iakuxi^b, group288373011], timestamp=group288373011@127.0.1.1:35005:   4]
+AddOperation [recipe=[fijfsmkt, Content--fijfsmkt, group288373011], timestamp=group288373011@127.0.1.1:35005:   5]
+AddOperation [recipe=[lvkxkymx, Content--lvkxkymx, group288373011], timestamp=group288373011@127.0.1.1:35005:   6]
+AddOperation [recipe=[eoacbpeo, Content--eoacbpeo, group288373011], timestamp=group288373011@127.0.1.1:35004:   0]
+AddOperation [recipe=[ckublxhc, Content--ckublxhc, group288373011], timestamp=group288373011@127.0.1.1:35004:   1]
+AddOperation [recipe=[dduir^vx, Content--dduir^vx, group288373011], timestamp=group288373011@127.0.1.1:35004:   2]
+AddOperation [recipe=[gvgkbgbk, Content--gvgkbgbk, group288373011], timestamp=group288373011@127.0.1.1:35004:   3]
+AddOperation [recipe=[ljbfwuwd, Content--ljbfwuwd, group288373011], timestamp=group288373011@127.0.1.1:35003:   0]
+AddOperation [recipe=[xlftcxbk, Content--xlftcxbk, group288373011], timestamp=group288373011@127.0.1.1:35003:   1]
+AddOperation [recipe=[kbjkbhet, Content--kbjkbhet, group288373011], timestamp=group288373011@127.0.1.1:35003:   2]
+AddOperation [recipe=[rijkcyvw, Content--rijkcyvw, group288373011], timestamp=group288373011@127.0.1.1:35003:   3]
+AddOperation [recipe=[tatccobf, Content--tatccobf, group288373011], timestamp=group288373011@127.0.1.1:35014:   0]
+AddOperation [recipe=[uldnieuf, Content--uldnieuf, group288373011], timestamp=group288373011@127.0.1.1:35014:   1]
+AddOperation [recipe=[ihmjrchj, Content--ihmjrchj, group288373011], timestamp=group288373011@127.0.1.1:35002:   0]
+AddOperation [recipe=[caywrjil, Content--caywrjil, group288373011], timestamp=group288373011@127.0.1.1:35013:   0]
+AddOperation [recipe=[eapwlmgf, Content--eapwlmgf, group288373011], timestamp=group288373011@127.0.1.1:35013:   1]
+AddOperation [recipe=[ebqmsbsj, Content--ebqmsbsj, group288373011], timestamp=group288373011@127.0.1.1:35013:   2]
+AddOperation [recipe=[vqswfjjh, Content--vqswfjjh, group288373011], timestamp=group288373011@127.0.1.1:35001:   0]
+AddOperation [recipe=[lwebkdlu, Content--lwebkdlu, group288373011], timestamp=group288373011@127.0.1.1:35001:   1]
+AddOperation [recipe=[ovgedpub, Content--ovgedpub, group288373011], timestamp=group288373011@127.0.1.1:35001:   2]
+AddOperation [recipe=[oicgvijn, Content--oicgvijn, group288373011], timestamp=group288373011@127.0.1.1:35012:   0]
+AddOperation [recipe=[snxtuorc, Content--snxtuorc, group288373011], timestamp=group288373011@127.0.1.1:35000:   0]
+AddOperation [recipe=[cvqbelhh, Content--cvqbelhh, group288373011], timestamp=group288373011@127.0.1.1:35000:   1]
+AddOperation [recipe=[gsdaiyui, Content--gsdaiyui, group288373011], timestamp=group288373011@127.0.1.1:35000:   2]
+AddOperation [recipe=[gguswqol, Content--gguswqol, group288373011], timestamp=group288373011@127.0.1.1:35000:   3]
+AddOperation [recipe=[ygfmwyou, Content--ygfmwyou, group288373011], timestamp=group288373011@127.0.1.1:35011:   1]
+AddOperation [recipe=[geyddord, Content--geyddord, group288373011], timestamp=group288373011@127.0.1.1:35011:   2]
+AddOperation [recipe=[yjshsfvp, Content--yjshsfvp, group288373011], timestamp=group288373011@127.0.1.1:35011:   3]
+AddOperation [recipe=[kvlikhde, Content--kvlikhde, group288373011], timestamp=group288373011@127.0.1.1:35010:   0]
+AddOperation [recipe=[ybguvaom, Content--ybguvaom, group288373011], timestamp=group288373011@127.0.1.1:35010:   1]
+
+Summary: group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+Ack: group288373011@127.0.1.1:35009:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35008:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35007:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35006:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35005:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35004:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35003:   group288373011@127.0.1.1:35009:   2
+group288373011@127.0.1.1:35008:   0
+group288373011@127.0.1.1:35007:   3
+group288373011@127.0.1.1:35006:   -1000
+group288373011@127.0.1.1:35005:   3
+group288373011@127.0.1.1:35004:   2
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   1
+group288373011@127.0.1.1:35001:   0
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   0
+group288373011@127.0.1.1:35011:   1
+group288373011@127.0.1.1:35010:   0
+
+group288373011@127.0.1.1:35014:   group288373011@127.0.1.1:35009:   3
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   0
+group288373011@127.0.1.1:35005:   5
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   1
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   2
+group288373011@127.0.1.1:35011:   2
+group288373011@127.0.1.1:35010:   0
+
+group288373011@127.0.1.1:35002:   group288373011@127.0.1.1:35009:   1
+group288373011@127.0.1.1:35008:   -1000
+group288373011@127.0.1.1:35007:   0
+group288373011@127.0.1.1:35006:   -1000
+group288373011@127.0.1.1:35005:   1
+group288373011@127.0.1.1:35004:   0
+group288373011@127.0.1.1:35003:   0
+group288373011@127.0.1.1:35014:   0
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   0
+group288373011@127.0.1.1:35001:   0
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   0
+group288373011@127.0.1.1:35011:   1
+group288373011@127.0.1.1:35010:   0
+
+group288373011@127.0.1.1:35013:   group288373011@127.0.1.1:35009:   3
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   1
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   2
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35001:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35012:   group288373011@127.0.1.1:35009:   3
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   0
+group288373011@127.0.1.1:35005:   5
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   1
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   2
+group288373011@127.0.1.1:35011:   2
+group288373011@127.0.1.1:35010:   0
+
+group288373011@127.0.1.1:35000:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35011:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35010:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+
+##### group288373011	2015/12/15 16:43:12
+----- [group288373011@127.0.1.1:35011] Result:
+ Group id: group288373011
+Node id: group288373011@127.0.1.1:35011
+Recipes: {aajcyqak=[aajcyqak, Content--aajcyqak, group288373011], apegkylv=[apegkylv, Content--apegkylv, group288373011], caywrjil=[caywrjil, Content--caywrjil, group288373011], cfpknuna=[cfpknuna, Content--cfpknuna, group288373011], ckublxhc=[ckublxhc, Content--ckublxhc, group288373011], cvqbelhh=[cvqbelhh, Content--cvqbelhh, group288373011], dcokngtt=[dcokngtt, Content--dcokngtt, group288373011], dduir^vx=[dduir^vx, Content--dduir^vx, group288373011], dxeouwjv=[dxeouwjv, Content--dxeouwjv, group288373011], eapwlmgf=[eapwlmgf, Content--eapwlmgf, group288373011], ebqmsbsj=[ebqmsbsj, Content--ebqmsbsj, group288373011], edenasfq=[edenasfq, Content--edenasfq, group288373011], eoacbpeo=[eoacbpeo, Content--eoacbpeo, group288373011], eslptfqv=[eslptfqv, Content--eslptfqv, group288373011], fcneykba=[fcneykba, Content--fcneykba, group288373011], fijfsmkt=[fijfsmkt, Content--fijfsmkt, group288373011], friwysty=[friwysty, Content--friwysty, group288373011], geyddord=[geyddord, Content--geyddord, group288373011], gguswqol=[gguswqol, Content--gguswqol, group288373011], gsdaiyui=[gsdaiyui, Content--gsdaiyui, group288373011], gvgkbgbk=[gvgkbgbk, Content--gvgkbgbk, group288373011], iakuxi^b=[iakuxi^b, Content--iakuxi^b, group288373011], ihmjrchj=[ihmjrchj, Content--ihmjrchj, group288373011], jfwqvoeq=[jfwqvoeq, Content--jfwqvoeq, group288373011], jsxdcsby=[jsxdcsby, Content--jsxdcsby, group288373011], kbhmdcno=[kbhmdcno, Content--kbhmdcno, group288373011], kbjkbhet=[kbjkbhet, Content--kbjkbhet, group288373011], kicohiaa=[kicohiaa, Content--kicohiaa, group288373011], kvlikhde=[kvlikhde, Content--kvlikhde, group288373011], ljbfwuwd=[ljbfwuwd, Content--ljbfwuwd, group288373011], lvkxkymx=[lvkxkymx, Content--lvkxkymx, group288373011], lwebkdlu=[lwebkdlu, Content--lwebkdlu, group288373011], nruvhslh=[nruvhslh, Content--nruvhslh, group288373011], oicgvijn=[oicgvijn, Content--oicgvijn, group288373011], oohavfhm=[oohavfhm, Content--oohavfhm, group288373011], ovgedpub=[ovgedpub, Content--ovgedpub, group288373011], putuvwkr=[putuvwkr, Content--putuvwkr, group288373011], rijkcyvw=[rijkcyvw, Content--rijkcyvw, group288373011], snxtuorc=[snxtuorc, Content--snxtuorc, group288373011], tatccobf=[tatccobf, Content--tatccobf, group288373011], uldnieuf=[uldnieuf, Content--uldnieuf, group288373011], uonqqlmg=[uonqqlmg, Content--uonqqlmg, group288373011], uywbsluv=[uywbsluv, Content--uywbsluv, group288373011], vqswfjjh=[vqswfjjh, Content--vqswfjjh, group288373011], xlftcxbk=[xlftcxbk, Content--xlftcxbk, group288373011], ybguvaom=[ybguvaom, Content--ybguvaom, group288373011], ydigpbxw=[ydigpbxw, Content--ydigpbxw, group288373011], ygfmwyou=[ygfmwyou, Content--ygfmwyou, group288373011], yjshsfvp=[yjshsfvp, Content--yjshsfvp, group288373011], ynmpnpnr=[ynmpnpnr, Content--ynmpnpnr, group288373011]}
+Log: AddOperation [recipe=[dxeouwjv, Content--dxeouwjv, group288373011], timestamp=group288373011@127.0.1.1:35009:   1]
+AddOperation [recipe=[ydigpbxw, Content--ydigpbxw, group288373011], timestamp=group288373011@127.0.1.1:35009:   2]
+AddOperation [recipe=[nruvhslh, Content--nruvhslh, group288373011], timestamp=group288373011@127.0.1.1:35009:   3]
+AddOperation [recipe=[ynmpnpnr, Content--ynmpnpnr, group288373011], timestamp=group288373011@127.0.1.1:35009:   4]
+AddOperation [recipe=[oohavfhm, Content--oohavfhm, group288373011], timestamp=group288373011@127.0.1.1:35008:   0]
+AddOperation [recipe=[putuvwkr, Content--putuvwkr, group288373011], timestamp=group288373011@127.0.1.1:35008:   1]
+AddOperation [recipe=[aajcyqak, Content--aajcyqak, group288373011], timestamp=group288373011@127.0.1.1:35007:   0]
+AddOperation [recipe=[uywbsluv, Content--uywbsluv, group288373011], timestamp=group288373011@127.0.1.1:35007:   1]
+AddOperation [recipe=[fcneykba, Content--fcneykba, group288373011], timestamp=group288373011@127.0.1.1:35007:   2]
+AddOperation [recipe=[uonqqlmg, Content--uonqqlmg, group288373011], timestamp=group288373011@127.0.1.1:35007:   3]
+AddOperation [recipe=[kicohiaa, Content--kicohiaa, group288373011], timestamp=group288373011@127.0.1.1:35007:   4]
+AddOperation [recipe=[apegkylv, Content--apegkylv, group288373011], timestamp=group288373011@127.0.1.1:35006:   0]
+AddOperation [recipe=[dcokngtt, Content--dcokngtt, group288373011], timestamp=group288373011@127.0.1.1:35006:   1]
+AddOperation [recipe=[friwysty, Content--friwysty, group288373011], timestamp=group288373011@127.0.1.1:35006:   2]
+AddOperation [recipe=[kbhmdcno, Content--kbhmdcno, group288373011], timestamp=group288373011@127.0.1.1:35005:   1]
+AddOperation [recipe=[cfpknuna, Content--cfpknuna, group288373011], timestamp=group288373011@127.0.1.1:35005:   2]
+AddOperation [recipe=[jfwqvoeq, Content--jfwqvoeq, group288373011], timestamp=group288373011@127.0.1.1:35005:   3]
+AddOperation [recipe=[iakuxi^b, Content--iakuxi^b, group288373011], timestamp=group288373011@127.0.1.1:35005:   4]
+AddOperation [recipe=[fijfsmkt, Content--fijfsmkt, group288373011], timestamp=group288373011@127.0.1.1:35005:   5]
+AddOperation [recipe=[lvkxkymx, Content--lvkxkymx, group288373011], timestamp=group288373011@127.0.1.1:35005:   6]
+AddOperation [recipe=[eoacbpeo, Content--eoacbpeo, group288373011], timestamp=group288373011@127.0.1.1:35004:   0]
+AddOperation [recipe=[ckublxhc, Content--ckublxhc, group288373011], timestamp=group288373011@127.0.1.1:35004:   1]
+AddOperation [recipe=[dduir^vx, Content--dduir^vx, group288373011], timestamp=group288373011@127.0.1.1:35004:   2]
+AddOperation [recipe=[gvgkbgbk, Content--gvgkbgbk, group288373011], timestamp=group288373011@127.0.1.1:35004:   3]
+AddOperation [recipe=[ljbfwuwd, Content--ljbfwuwd, group288373011], timestamp=group288373011@127.0.1.1:35003:   0]
+AddOperation [recipe=[xlftcxbk, Content--xlftcxbk, group288373011], timestamp=group288373011@127.0.1.1:35003:   1]
+AddOperation [recipe=[kbjkbhet, Content--kbjkbhet, group288373011], timestamp=group288373011@127.0.1.1:35003:   2]
+AddOperation [recipe=[rijkcyvw, Content--rijkcyvw, group288373011], timestamp=group288373011@127.0.1.1:35003:   3]
+AddOperation [recipe=[tatccobf, Content--tatccobf, group288373011], timestamp=group288373011@127.0.1.1:35014:   0]
+AddOperation [recipe=[uldnieuf, Content--uldnieuf, group288373011], timestamp=group288373011@127.0.1.1:35014:   1]
+AddOperation [recipe=[ihmjrchj, Content--ihmjrchj, group288373011], timestamp=group288373011@127.0.1.1:35002:   0]
+AddOperation [recipe=[caywrjil, Content--caywrjil, group288373011], timestamp=group288373011@127.0.1.1:35013:   0]
+AddOperation [recipe=[eapwlmgf, Content--eapwlmgf, group288373011], timestamp=group288373011@127.0.1.1:35013:   1]
+AddOperation [recipe=[ebqmsbsj, Content--ebqmsbsj, group288373011], timestamp=group288373011@127.0.1.1:35013:   2]
+AddOperation [recipe=[vqswfjjh, Content--vqswfjjh, group288373011], timestamp=group288373011@127.0.1.1:35001:   0]
+AddOperation [recipe=[lwebkdlu, Content--lwebkdlu, group288373011], timestamp=group288373011@127.0.1.1:35001:   1]
+AddOperation [recipe=[ovgedpub, Content--ovgedpub, group288373011], timestamp=group288373011@127.0.1.1:35001:   2]
+AddOperation [recipe=[oicgvijn, Content--oicgvijn, group288373011], timestamp=group288373011@127.0.1.1:35012:   0]
+AddOperation [recipe=[snxtuorc, Content--snxtuorc, group288373011], timestamp=group288373011@127.0.1.1:35000:   0]
+AddOperation [recipe=[cvqbelhh, Content--cvqbelhh, group288373011], timestamp=group288373011@127.0.1.1:35000:   1]
+AddOperation [recipe=[gsdaiyui, Content--gsdaiyui, group288373011], timestamp=group288373011@127.0.1.1:35000:   2]
+AddOperation [recipe=[gguswqol, Content--gguswqol, group288373011], timestamp=group288373011@127.0.1.1:35000:   3]
+AddOperation [recipe=[ygfmwyou, Content--ygfmwyou, group288373011], timestamp=group288373011@127.0.1.1:35011:   1]
+AddOperation [recipe=[geyddord, Content--geyddord, group288373011], timestamp=group288373011@127.0.1.1:35011:   2]
+AddOperation [recipe=[yjshsfvp, Content--yjshsfvp, group288373011], timestamp=group288373011@127.0.1.1:35011:   3]
+AddOperation [recipe=[kvlikhde, Content--kvlikhde, group288373011], timestamp=group288373011@127.0.1.1:35010:   0]
+AddOperation [recipe=[ybguvaom, Content--ybguvaom, group288373011], timestamp=group288373011@127.0.1.1:35010:   1]
+
+Summary: group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+Ack: group288373011@127.0.1.1:35009:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35008:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35007:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35006:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35005:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35004:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35003:   group288373011@127.0.1.1:35009:   2
+group288373011@127.0.1.1:35008:   0
+group288373011@127.0.1.1:35007:   3
+group288373011@127.0.1.1:35006:   -1000
+group288373011@127.0.1.1:35005:   3
+group288373011@127.0.1.1:35004:   2
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   1
+group288373011@127.0.1.1:35001:   0
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   0
+group288373011@127.0.1.1:35011:   1
+group288373011@127.0.1.1:35010:   0
+
+group288373011@127.0.1.1:35014:   group288373011@127.0.1.1:35009:   3
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   0
+group288373011@127.0.1.1:35005:   5
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   1
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   2
+group288373011@127.0.1.1:35011:   2
+group288373011@127.0.1.1:35010:   0
+
+group288373011@127.0.1.1:35002:   group288373011@127.0.1.1:35009:   1
+group288373011@127.0.1.1:35008:   -1000
+group288373011@127.0.1.1:35007:   0
+group288373011@127.0.1.1:35006:   -1000
+group288373011@127.0.1.1:35005:   1
+group288373011@127.0.1.1:35004:   0
+group288373011@127.0.1.1:35003:   0
+group288373011@127.0.1.1:35014:   0
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   0
+group288373011@127.0.1.1:35001:   0
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   0
+group288373011@127.0.1.1:35011:   1
+group288373011@127.0.1.1:35010:   0
+
+group288373011@127.0.1.1:35013:   group288373011@127.0.1.1:35009:   3
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   1
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   2
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35001:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35012:   group288373011@127.0.1.1:35009:   3
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   0
+group288373011@127.0.1.1:35005:   5
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   1
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   2
+group288373011@127.0.1.1:35011:   2
+group288373011@127.0.1.1:35010:   0
+
+group288373011@127.0.1.1:35000:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35011:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35010:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+
+##### group288373011	2015/12/15 16:43:12
+----- [group288373011@127.0.1.1:35004] Result:
+ Group id: group288373011
+Node id: group288373011@127.0.1.1:35004
+Recipes: {aajcyqak=[aajcyqak, Content--aajcyqak, group288373011], apegkylv=[apegkylv, Content--apegkylv, group288373011], caywrjil=[caywrjil, Content--caywrjil, group288373011], cfpknuna=[cfpknuna, Content--cfpknuna, group288373011], ckublxhc=[ckublxhc, Content--ckublxhc, group288373011], cvqbelhh=[cvqbelhh, Content--cvqbelhh, group288373011], dcokngtt=[dcokngtt, Content--dcokngtt, group288373011], dduir^vx=[dduir^vx, Content--dduir^vx, group288373011], dxeouwjv=[dxeouwjv, Content--dxeouwjv, group288373011], eapwlmgf=[eapwlmgf, Content--eapwlmgf, group288373011], ebqmsbsj=[ebqmsbsj, Content--ebqmsbsj, group288373011], edenasfq=[edenasfq, Content--edenasfq, group288373011], eoacbpeo=[eoacbpeo, Content--eoacbpeo, group288373011], eslptfqv=[eslptfqv, Content--eslptfqv, group288373011], fcneykba=[fcneykba, Content--fcneykba, group288373011], fijfsmkt=[fijfsmkt, Content--fijfsmkt, group288373011], friwysty=[friwysty, Content--friwysty, group288373011], geyddord=[geyddord, Content--geyddord, group288373011], gguswqol=[gguswqol, Content--gguswqol, group288373011], gsdaiyui=[gsdaiyui, Content--gsdaiyui, group288373011], gvgkbgbk=[gvgkbgbk, Content--gvgkbgbk, group288373011], iakuxi^b=[iakuxi^b, Content--iakuxi^b, group288373011], ihmjrchj=[ihmjrchj, Content--ihmjrchj, group288373011], jfwqvoeq=[jfwqvoeq, Content--jfwqvoeq, group288373011], jsxdcsby=[jsxdcsby, Content--jsxdcsby, group288373011], kbhmdcno=[kbhmdcno, Content--kbhmdcno, group288373011], kbjkbhet=[kbjkbhet, Content--kbjkbhet, group288373011], kicohiaa=[kicohiaa, Content--kicohiaa, group288373011], kvlikhde=[kvlikhde, Content--kvlikhde, group288373011], ljbfwuwd=[ljbfwuwd, Content--ljbfwuwd, group288373011], lvkxkymx=[lvkxkymx, Content--lvkxkymx, group288373011], lwebkdlu=[lwebkdlu, Content--lwebkdlu, group288373011], nruvhslh=[nruvhslh, Content--nruvhslh, group288373011], oicgvijn=[oicgvijn, Content--oicgvijn, group288373011], oohavfhm=[oohavfhm, Content--oohavfhm, group288373011], ovgedpub=[ovgedpub, Content--ovgedpub, group288373011], putuvwkr=[putuvwkr, Content--putuvwkr, group288373011], rijkcyvw=[rijkcyvw, Content--rijkcyvw, group288373011], snxtuorc=[snxtuorc, Content--snxtuorc, group288373011], tatccobf=[tatccobf, Content--tatccobf, group288373011], uldnieuf=[uldnieuf, Content--uldnieuf, group288373011], uonqqlmg=[uonqqlmg, Content--uonqqlmg, group288373011], uywbsluv=[uywbsluv, Content--uywbsluv, group288373011], vqswfjjh=[vqswfjjh, Content--vqswfjjh, group288373011], xlftcxbk=[xlftcxbk, Content--xlftcxbk, group288373011], ybguvaom=[ybguvaom, Content--ybguvaom, group288373011], ydigpbxw=[ydigpbxw, Content--ydigpbxw, group288373011], ygfmwyou=[ygfmwyou, Content--ygfmwyou, group288373011], yjshsfvp=[yjshsfvp, Content--yjshsfvp, group288373011], ynmpnpnr=[ynmpnpnr, Content--ynmpnpnr, group288373011]}
+Log: AddOperation [recipe=[dxeouwjv, Content--dxeouwjv, group288373011], timestamp=group288373011@127.0.1.1:35009:   1]
+AddOperation [recipe=[ydigpbxw, Content--ydigpbxw, group288373011], timestamp=group288373011@127.0.1.1:35009:   2]
+AddOperation [recipe=[nruvhslh, Content--nruvhslh, group288373011], timestamp=group288373011@127.0.1.1:35009:   3]
+AddOperation [recipe=[ynmpnpnr, Content--ynmpnpnr, group288373011], timestamp=group288373011@127.0.1.1:35009:   4]
+AddOperation [recipe=[oohavfhm, Content--oohavfhm, group288373011], timestamp=group288373011@127.0.1.1:35008:   0]
+AddOperation [recipe=[putuvwkr, Content--putuvwkr, group288373011], timestamp=group288373011@127.0.1.1:35008:   1]
+AddOperation [recipe=[aajcyqak, Content--aajcyqak, group288373011], timestamp=group288373011@127.0.1.1:35007:   0]
+AddOperation [recipe=[uywbsluv, Content--uywbsluv, group288373011], timestamp=group288373011@127.0.1.1:35007:   1]
+AddOperation [recipe=[fcneykba, Content--fcneykba, group288373011], timestamp=group288373011@127.0.1.1:35007:   2]
+AddOperation [recipe=[uonqqlmg, Content--uonqqlmg, group288373011], timestamp=group288373011@127.0.1.1:35007:   3]
+AddOperation [recipe=[kicohiaa, Content--kicohiaa, group288373011], timestamp=group288373011@127.0.1.1:35007:   4]
+AddOperation [recipe=[apegkylv, Content--apegkylv, group288373011], timestamp=group288373011@127.0.1.1:35006:   0]
+AddOperation [recipe=[dcokngtt, Content--dcokngtt, group288373011], timestamp=group288373011@127.0.1.1:35006:   1]
+AddOperation [recipe=[friwysty, Content--friwysty, group288373011], timestamp=group288373011@127.0.1.1:35006:   2]
+AddOperation [recipe=[kbhmdcno, Content--kbhmdcno, group288373011], timestamp=group288373011@127.0.1.1:35005:   1]
+AddOperation [recipe=[cfpknuna, Content--cfpknuna, group288373011], timestamp=group288373011@127.0.1.1:35005:   2]
+AddOperation [recipe=[jfwqvoeq, Content--jfwqvoeq, group288373011], timestamp=group288373011@127.0.1.1:35005:   3]
+AddOperation [recipe=[iakuxi^b, Content--iakuxi^b, group288373011], timestamp=group288373011@127.0.1.1:35005:   4]
+AddOperation [recipe=[fijfsmkt, Content--fijfsmkt, group288373011], timestamp=group288373011@127.0.1.1:35005:   5]
+AddOperation [recipe=[lvkxkymx, Content--lvkxkymx, group288373011], timestamp=group288373011@127.0.1.1:35005:   6]
+AddOperation [recipe=[eoacbpeo, Content--eoacbpeo, group288373011], timestamp=group288373011@127.0.1.1:35004:   0]
+AddOperation [recipe=[ckublxhc, Content--ckublxhc, group288373011], timestamp=group288373011@127.0.1.1:35004:   1]
+AddOperation [recipe=[dduir^vx, Content--dduir^vx, group288373011], timestamp=group288373011@127.0.1.1:35004:   2]
+AddOperation [recipe=[gvgkbgbk, Content--gvgkbgbk, group288373011], timestamp=group288373011@127.0.1.1:35004:   3]
+AddOperation [recipe=[ljbfwuwd, Content--ljbfwuwd, group288373011], timestamp=group288373011@127.0.1.1:35003:   0]
+AddOperation [recipe=[xlftcxbk, Content--xlftcxbk, group288373011], timestamp=group288373011@127.0.1.1:35003:   1]
+AddOperation [recipe=[kbjkbhet, Content--kbjkbhet, group288373011], timestamp=group288373011@127.0.1.1:35003:   2]
+AddOperation [recipe=[rijkcyvw, Content--rijkcyvw, group288373011], timestamp=group288373011@127.0.1.1:35003:   3]
+AddOperation [recipe=[tatccobf, Content--tatccobf, group288373011], timestamp=group288373011@127.0.1.1:35014:   0]
+AddOperation [recipe=[uldnieuf, Content--uldnieuf, group288373011], timestamp=group288373011@127.0.1.1:35014:   1]
+AddOperation [recipe=[ihmjrchj, Content--ihmjrchj, group288373011], timestamp=group288373011@127.0.1.1:35002:   0]
+AddOperation [recipe=[caywrjil, Content--caywrjil, group288373011], timestamp=group288373011@127.0.1.1:35013:   0]
+AddOperation [recipe=[eapwlmgf, Content--eapwlmgf, group288373011], timestamp=group288373011@127.0.1.1:35013:   1]
+AddOperation [recipe=[ebqmsbsj, Content--ebqmsbsj, group288373011], timestamp=group288373011@127.0.1.1:35013:   2]
+AddOperation [recipe=[vqswfjjh, Content--vqswfjjh, group288373011], timestamp=group288373011@127.0.1.1:35001:   0]
+AddOperation [recipe=[lwebkdlu, Content--lwebkdlu, group288373011], timestamp=group288373011@127.0.1.1:35001:   1]
+AddOperation [recipe=[ovgedpub, Content--ovgedpub, group288373011], timestamp=group288373011@127.0.1.1:35001:   2]
+AddOperation [recipe=[oicgvijn, Content--oicgvijn, group288373011], timestamp=group288373011@127.0.1.1:35012:   0]
+AddOperation [recipe=[snxtuorc, Content--snxtuorc, group288373011], timestamp=group288373011@127.0.1.1:35000:   0]
+AddOperation [recipe=[cvqbelhh, Content--cvqbelhh, group288373011], timestamp=group288373011@127.0.1.1:35000:   1]
+AddOperation [recipe=[gsdaiyui, Content--gsdaiyui, group288373011], timestamp=group288373011@127.0.1.1:35000:   2]
+AddOperation [recipe=[gguswqol, Content--gguswqol, group288373011], timestamp=group288373011@127.0.1.1:35000:   3]
+AddOperation [recipe=[ygfmwyou, Content--ygfmwyou, group288373011], timestamp=group288373011@127.0.1.1:35011:   1]
+AddOperation [recipe=[geyddord, Content--geyddord, group288373011], timestamp=group288373011@127.0.1.1:35011:   2]
+AddOperation [recipe=[yjshsfvp, Content--yjshsfvp, group288373011], timestamp=group288373011@127.0.1.1:35011:   3]
+AddOperation [recipe=[kvlikhde, Content--kvlikhde, group288373011], timestamp=group288373011@127.0.1.1:35010:   0]
+AddOperation [recipe=[ybguvaom, Content--ybguvaom, group288373011], timestamp=group288373011@127.0.1.1:35010:   1]
+
+Summary: group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+Ack: group288373011@127.0.1.1:35009:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35008:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35007:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35006:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35005:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35004:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35003:   group288373011@127.0.1.1:35009:   2
+group288373011@127.0.1.1:35008:   0
+group288373011@127.0.1.1:35007:   3
+group288373011@127.0.1.1:35006:   -1000
+group288373011@127.0.1.1:35005:   3
+group288373011@127.0.1.1:35004:   2
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   1
+group288373011@127.0.1.1:35001:   0
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   0
+group288373011@127.0.1.1:35011:   1
+group288373011@127.0.1.1:35010:   0
+
+group288373011@127.0.1.1:35014:   group288373011@127.0.1.1:35009:   3
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   0
+group288373011@127.0.1.1:35005:   5
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   1
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   2
+group288373011@127.0.1.1:35011:   2
+group288373011@127.0.1.1:35010:   0
+
+group288373011@127.0.1.1:35002:   group288373011@127.0.1.1:35009:   1
+group288373011@127.0.1.1:35008:   -1000
+group288373011@127.0.1.1:35007:   0
+group288373011@127.0.1.1:35006:   -1000
+group288373011@127.0.1.1:35005:   1
+group288373011@127.0.1.1:35004:   0
+group288373011@127.0.1.1:35003:   0
+group288373011@127.0.1.1:35014:   0
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   0
+group288373011@127.0.1.1:35001:   0
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   0
+group288373011@127.0.1.1:35011:   1
+group288373011@127.0.1.1:35010:   0
+
+group288373011@127.0.1.1:35013:   group288373011@127.0.1.1:35009:   3
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   1
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   2
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35001:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35012:   group288373011@127.0.1.1:35009:   3
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   0
+group288373011@127.0.1.1:35005:   5
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   1
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   2
+group288373011@127.0.1.1:35011:   2
+group288373011@127.0.1.1:35010:   0
+
+group288373011@127.0.1.1:35000:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35011:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35010:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+
+##### group288373011	2015/12/15 16:43:12
+----- [group288373011@127.0.1.1:35007] Result:
+ Group id: group288373011
+Node id: group288373011@127.0.1.1:35007
+Recipes: {aajcyqak=[aajcyqak, Content--aajcyqak, group288373011], apegkylv=[apegkylv, Content--apegkylv, group288373011], caywrjil=[caywrjil, Content--caywrjil, group288373011], cfpknuna=[cfpknuna, Content--cfpknuna, group288373011], ckublxhc=[ckublxhc, Content--ckublxhc, group288373011], cvqbelhh=[cvqbelhh, Content--cvqbelhh, group288373011], dcokngtt=[dcokngtt, Content--dcokngtt, group288373011], dduir^vx=[dduir^vx, Content--dduir^vx, group288373011], dxeouwjv=[dxeouwjv, Content--dxeouwjv, group288373011], eapwlmgf=[eapwlmgf, Content--eapwlmgf, group288373011], ebqmsbsj=[ebqmsbsj, Content--ebqmsbsj, group288373011], edenasfq=[edenasfq, Content--edenasfq, group288373011], eoacbpeo=[eoacbpeo, Content--eoacbpeo, group288373011], eslptfqv=[eslptfqv, Content--eslptfqv, group288373011], fcneykba=[fcneykba, Content--fcneykba, group288373011], fijfsmkt=[fijfsmkt, Content--fijfsmkt, group288373011], friwysty=[friwysty, Content--friwysty, group288373011], geyddord=[geyddord, Content--geyddord, group288373011], gguswqol=[gguswqol, Content--gguswqol, group288373011], gsdaiyui=[gsdaiyui, Content--gsdaiyui, group288373011], gvgkbgbk=[gvgkbgbk, Content--gvgkbgbk, group288373011], iakuxi^b=[iakuxi^b, Content--iakuxi^b, group288373011], ihmjrchj=[ihmjrchj, Content--ihmjrchj, group288373011], jfwqvoeq=[jfwqvoeq, Content--jfwqvoeq, group288373011], jsxdcsby=[jsxdcsby, Content--jsxdcsby, group288373011], kbhmdcno=[kbhmdcno, Content--kbhmdcno, group288373011], kbjkbhet=[kbjkbhet, Content--kbjkbhet, group288373011], kicohiaa=[kicohiaa, Content--kicohiaa, group288373011], kvlikhde=[kvlikhde, Content--kvlikhde, group288373011], ljbfwuwd=[ljbfwuwd, Content--ljbfwuwd, group288373011], lvkxkymx=[lvkxkymx, Content--lvkxkymx, group288373011], lwebkdlu=[lwebkdlu, Content--lwebkdlu, group288373011], nruvhslh=[nruvhslh, Content--nruvhslh, group288373011], oicgvijn=[oicgvijn, Content--oicgvijn, group288373011], oohavfhm=[oohavfhm, Content--oohavfhm, group288373011], ovgedpub=[ovgedpub, Content--ovgedpub, group288373011], putuvwkr=[putuvwkr, Content--putuvwkr, group288373011], rijkcyvw=[rijkcyvw, Content--rijkcyvw, group288373011], snxtuorc=[snxtuorc, Content--snxtuorc, group288373011], tatccobf=[tatccobf, Content--tatccobf, group288373011], uldnieuf=[uldnieuf, Content--uldnieuf, group288373011], uonqqlmg=[uonqqlmg, Content--uonqqlmg, group288373011], uywbsluv=[uywbsluv, Content--uywbsluv, group288373011], vqswfjjh=[vqswfjjh, Content--vqswfjjh, group288373011], xlftcxbk=[xlftcxbk, Content--xlftcxbk, group288373011], ybguvaom=[ybguvaom, Content--ybguvaom, group288373011], ydigpbxw=[ydigpbxw, Content--ydigpbxw, group288373011], ygfmwyou=[ygfmwyou, Content--ygfmwyou, group288373011], yjshsfvp=[yjshsfvp, Content--yjshsfvp, group288373011], ynmpnpnr=[ynmpnpnr, Content--ynmpnpnr, group288373011]}
+Log: AddOperation [recipe=[dxeouwjv, Content--dxeouwjv, group288373011], timestamp=group288373011@127.0.1.1:35009:   1]
+AddOperation [recipe=[ydigpbxw, Content--ydigpbxw, group288373011], timestamp=group288373011@127.0.1.1:35009:   2]
+AddOperation [recipe=[nruvhslh, Content--nruvhslh, group288373011], timestamp=group288373011@127.0.1.1:35009:   3]
+AddOperation [recipe=[ynmpnpnr, Content--ynmpnpnr, group288373011], timestamp=group288373011@127.0.1.1:35009:   4]
+AddOperation [recipe=[oohavfhm, Content--oohavfhm, group288373011], timestamp=group288373011@127.0.1.1:35008:   0]
+AddOperation [recipe=[putuvwkr, Content--putuvwkr, group288373011], timestamp=group288373011@127.0.1.1:35008:   1]
+AddOperation [recipe=[aajcyqak, Content--aajcyqak, group288373011], timestamp=group288373011@127.0.1.1:35007:   0]
+AddOperation [recipe=[uywbsluv, Content--uywbsluv, group288373011], timestamp=group288373011@127.0.1.1:35007:   1]
+AddOperation [recipe=[fcneykba, Content--fcneykba, group288373011], timestamp=group288373011@127.0.1.1:35007:   2]
+AddOperation [recipe=[uonqqlmg, Content--uonqqlmg, group288373011], timestamp=group288373011@127.0.1.1:35007:   3]
+AddOperation [recipe=[kicohiaa, Content--kicohiaa, group288373011], timestamp=group288373011@127.0.1.1:35007:   4]
+AddOperation [recipe=[apegkylv, Content--apegkylv, group288373011], timestamp=group288373011@127.0.1.1:35006:   0]
+AddOperation [recipe=[dcokngtt, Content--dcokngtt, group288373011], timestamp=group288373011@127.0.1.1:35006:   1]
+AddOperation [recipe=[friwysty, Content--friwysty, group288373011], timestamp=group288373011@127.0.1.1:35006:   2]
+AddOperation [recipe=[kbhmdcno, Content--kbhmdcno, group288373011], timestamp=group288373011@127.0.1.1:35005:   1]
+AddOperation [recipe=[cfpknuna, Content--cfpknuna, group288373011], timestamp=group288373011@127.0.1.1:35005:   2]
+AddOperation [recipe=[jfwqvoeq, Content--jfwqvoeq, group288373011], timestamp=group288373011@127.0.1.1:35005:   3]
+AddOperation [recipe=[iakuxi^b, Content--iakuxi^b, group288373011], timestamp=group288373011@127.0.1.1:35005:   4]
+AddOperation [recipe=[fijfsmkt, Content--fijfsmkt, group288373011], timestamp=group288373011@127.0.1.1:35005:   5]
+AddOperation [recipe=[lvkxkymx, Content--lvkxkymx, group288373011], timestamp=group288373011@127.0.1.1:35005:   6]
+AddOperation [recipe=[eoacbpeo, Content--eoacbpeo, group288373011], timestamp=group288373011@127.0.1.1:35004:   0]
+AddOperation [recipe=[ckublxhc, Content--ckublxhc, group288373011], timestamp=group288373011@127.0.1.1:35004:   1]
+AddOperation [recipe=[dduir^vx, Content--dduir^vx, group288373011], timestamp=group288373011@127.0.1.1:35004:   2]
+AddOperation [recipe=[gvgkbgbk, Content--gvgkbgbk, group288373011], timestamp=group288373011@127.0.1.1:35004:   3]
+AddOperation [recipe=[ljbfwuwd, Content--ljbfwuwd, group288373011], timestamp=group288373011@127.0.1.1:35003:   0]
+AddOperation [recipe=[xlftcxbk, Content--xlftcxbk, group288373011], timestamp=group288373011@127.0.1.1:35003:   1]
+AddOperation [recipe=[kbjkbhet, Content--kbjkbhet, group288373011], timestamp=group288373011@127.0.1.1:35003:   2]
+AddOperation [recipe=[rijkcyvw, Content--rijkcyvw, group288373011], timestamp=group288373011@127.0.1.1:35003:   3]
+AddOperation [recipe=[tatccobf, Content--tatccobf, group288373011], timestamp=group288373011@127.0.1.1:35014:   0]
+AddOperation [recipe=[uldnieuf, Content--uldnieuf, group288373011], timestamp=group288373011@127.0.1.1:35014:   1]
+AddOperation [recipe=[ihmjrchj, Content--ihmjrchj, group288373011], timestamp=group288373011@127.0.1.1:35002:   0]
+AddOperation [recipe=[caywrjil, Content--caywrjil, group288373011], timestamp=group288373011@127.0.1.1:35013:   0]
+AddOperation [recipe=[eapwlmgf, Content--eapwlmgf, group288373011], timestamp=group288373011@127.0.1.1:35013:   1]
+AddOperation [recipe=[ebqmsbsj, Content--ebqmsbsj, group288373011], timestamp=group288373011@127.0.1.1:35013:   2]
+AddOperation [recipe=[vqswfjjh, Content--vqswfjjh, group288373011], timestamp=group288373011@127.0.1.1:35001:   0]
+AddOperation [recipe=[lwebkdlu, Content--lwebkdlu, group288373011], timestamp=group288373011@127.0.1.1:35001:   1]
+AddOperation [recipe=[ovgedpub, Content--ovgedpub, group288373011], timestamp=group288373011@127.0.1.1:35001:   2]
+AddOperation [recipe=[oicgvijn, Content--oicgvijn, group288373011], timestamp=group288373011@127.0.1.1:35012:   0]
+AddOperation [recipe=[snxtuorc, Content--snxtuorc, group288373011], timestamp=group288373011@127.0.1.1:35000:   0]
+AddOperation [recipe=[cvqbelhh, Content--cvqbelhh, group288373011], timestamp=group288373011@127.0.1.1:35000:   1]
+AddOperation [recipe=[gsdaiyui, Content--gsdaiyui, group288373011], timestamp=group288373011@127.0.1.1:35000:   2]
+AddOperation [recipe=[gguswqol, Content--gguswqol, group288373011], timestamp=group288373011@127.0.1.1:35000:   3]
+AddOperation [recipe=[ygfmwyou, Content--ygfmwyou, group288373011], timestamp=group288373011@127.0.1.1:35011:   1]
+AddOperation [recipe=[geyddord, Content--geyddord, group288373011], timestamp=group288373011@127.0.1.1:35011:   2]
+AddOperation [recipe=[yjshsfvp, Content--yjshsfvp, group288373011], timestamp=group288373011@127.0.1.1:35011:   3]
+AddOperation [recipe=[kvlikhde, Content--kvlikhde, group288373011], timestamp=group288373011@127.0.1.1:35010:   0]
+AddOperation [recipe=[ybguvaom, Content--ybguvaom, group288373011], timestamp=group288373011@127.0.1.1:35010:   1]
+
+Summary: group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+Ack: group288373011@127.0.1.1:35009:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35008:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35007:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35006:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35005:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35004:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35003:   group288373011@127.0.1.1:35009:   2
+group288373011@127.0.1.1:35008:   0
+group288373011@127.0.1.1:35007:   3
+group288373011@127.0.1.1:35006:   -1000
+group288373011@127.0.1.1:35005:   3
+group288373011@127.0.1.1:35004:   2
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   1
+group288373011@127.0.1.1:35001:   0
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   0
+group288373011@127.0.1.1:35011:   1
+group288373011@127.0.1.1:35010:   0
+
+group288373011@127.0.1.1:35014:   group288373011@127.0.1.1:35009:   3
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   0
+group288373011@127.0.1.1:35005:   5
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   1
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   2
+group288373011@127.0.1.1:35011:   2
+group288373011@127.0.1.1:35010:   0
+
+group288373011@127.0.1.1:35002:   group288373011@127.0.1.1:35009:   1
+group288373011@127.0.1.1:35008:   -1000
+group288373011@127.0.1.1:35007:   0
+group288373011@127.0.1.1:35006:   -1000
+group288373011@127.0.1.1:35005:   1
+group288373011@127.0.1.1:35004:   0
+group288373011@127.0.1.1:35003:   0
+group288373011@127.0.1.1:35014:   0
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   0
+group288373011@127.0.1.1:35001:   0
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   0
+group288373011@127.0.1.1:35011:   1
+group288373011@127.0.1.1:35010:   0
+
+group288373011@127.0.1.1:35013:   group288373011@127.0.1.1:35009:   3
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   1
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   2
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35001:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35012:   group288373011@127.0.1.1:35009:   3
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   0
+group288373011@127.0.1.1:35005:   5
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   1
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   2
+group288373011@127.0.1.1:35011:   2
+group288373011@127.0.1.1:35010:   0
+
+group288373011@127.0.1.1:35000:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35011:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+group288373011@127.0.1.1:35010:   group288373011@127.0.1.1:35009:   4
+group288373011@127.0.1.1:35008:   1
+group288373011@127.0.1.1:35007:   4
+group288373011@127.0.1.1:35006:   2
+group288373011@127.0.1.1:35005:   6
+group288373011@127.0.1.1:35004:   3
+group288373011@127.0.1.1:35003:   3
+group288373011@127.0.1.1:35014:   1
+group288373011@127.0.1.1:35002:   0
+group288373011@127.0.1.1:35013:   2
+group288373011@127.0.1.1:35001:   2
+group288373011@127.0.1.1:35012:   0
+group288373011@127.0.1.1:35000:   3
+group288373011@127.0.1.1:35011:   3
+group288373011@127.0.1.1:35010:   1
+
+================================================
